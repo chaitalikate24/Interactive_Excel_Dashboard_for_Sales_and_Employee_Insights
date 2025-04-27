@@ -1,0 +1,831 @@
+OrderID,CustomerID,EmployeeID,OrderDate,Employee Name,Sales,Freight,ShipVia,Shipper CompanyName,Customer ComapanyName,ProductID,ProductName,CategoryID,CategoryName,TerritoryID,RegionID,RegionDescription,SupplierID,Supplier CompanyName,Quantity,UnitPrice,Discount
+10248,VINET,5,04-07-1996,Buchanan Steven,440,32.38,3,Federal Shipping,Vins et alcools Chevalier,11,Queso Cabrales,4,Dairy Products,02903,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',27,58.6,0
+10249,TOMSP,6,05-07-1996,Suyama Michael,1863.4,11.61,1,Speedy Express,Toms Spezialitäten,14,Tofu,7,Produce,85014,2,Western,6,Mayumi's,49,61,0
+10250,HANAR,4,08-07-1996,Peacock Margaret,1812.7,65.83,2,United Package,Hanari Carnes,41,Jack's New England Clam Chowder,8,Seafood,20852,1,Eastern,19,New England Seafood Cannery,60,66.9,0
+10251,VICTE,3,08-07-1996,Leverling Janet,670.7,41.34,1,Speedy Express,Victuailles en stock,22,Gustaf's Knäckebröd,5,Grains/Cereals,30346,4,Southern,9,PB Knäckebröd AB,41,49.2,0.050000001
+10255,RICSU,9,12-07-1996,Dodsworth Anne,479.4,148.33,3,Federal Shipping,Richter Supermarkt,2,Chang,1,Beverages,03049,3,Northern,1,Exotic Liquids,39,34.6,0
+10262,RATTC,8,22-07-1996,Callahan Laura,2464.05,48.29,3,Federal Shipping,Rattlesnake Canyon Grocery,5,Chef Anton's Gumbo Mix,2,Condiments,19428,3,Northern,2,New Orleans Cajun Delights,184,46.2,0.200000003
+10265,BLONP,2,25-07-1996,Fuller Andrew,1101.2,55.28,3,Federal Shipping,Blondesddsl père et fils,17,Alice Mutton,6,Meat/Poultry,01581,1,Eastern,7,"Pavlova, Ltd.",14,126.8,0
+10289,BSBEV,7,26-08-1996,King Robert,516.8,22.77,2,United Package,B's Beverages,3,Aniseed Syrup,2,Condiments,60179,2,Western,1,Exotic Liquids,44,23.2,0
+10252,SUPRD,4,09-07-1996,Peacock Margaret,2490.5,51.3,3,Federal Shipping,Suprêmes délices,20,Sir Rodney's Marmalade,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",110,88.3,0.050000001
+10253,HANAR,3,10-07-1996,Leverling Janet,624.6,58.17,3,Federal Shipping,Hanari Carnes,31,Gorgonzola Telino,4,Dairy Products,30346,4,Southern,14,Formaggi Fortini s.r.l.,29,71.4,0
+10254,CHOPS,5,11-07-1996,Buchanan Steven,1176,22.98,1,Speedy Express,Chop-suey Chinese,24,Guaraná Fantástica,1,Beverages,02903,1,Eastern,10,Refrescos Americanas LTDA,50,43.2,0.150000006
+10256,WELLI,3,15-07-1996,Leverling Janet,3729.9,13.97,2,United Package,Wellington Importadora,53,Perth Pasties,6,Meat/Poultry,30346,4,Southern,24,"G'day, Mate",105,94,0
+10257,HILAA,4,16-07-1996,Peacock Margaret,1444.8,81.91,2,United Package,HILARION-Abastos,27,Schoggi Schokolade,3,Confections,20852,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,102,40.4,0
+10259,CENTC,4,18-07-1996,Peacock Margaret,517.8,3.25,2,United Package,Centro comercial Moctezuma,21,Sir Rodney's Scones,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",27,36.6,0
+10263,ERNSH,9,23-07-1996,Dodsworth Anne,364.75,146.06,3,Federal Shipping,Ernst Handel,16,Pavlova,3,Confections,03049,3,Northern,7,"Pavlova, Ltd.",12,30.4,0.25
+10266,WARTH,3,26-07-1996,Leverling Janet,675.9,25.73,1,Speedy Express,Wartian Herkku,12,Queso Manchego La Pastora,4,Dairy Products,30346,4,Southern,5,Cooperativa de Quesos 'Las Cabras',80,29.8,0.050000001
+10267,FRANK,4,29-07-1996,Peacock Margaret,1376,208.58,1,Speedy Express,Frankenversand,40,Boston Crab Meat,8,Seafood,20852,1,Eastern,19,New England Seafood Cannery,55,52,0
+10268,GROSR,8,30-07-1996,Callahan Laura,2142.2,66.29,3,Federal Shipping,GROSELLA-Restaurante,29,Thüringer Rostbratwurst,6,Meat/Poultry,19428,3,Northern,12,Plutzer Lebensmittelgroßmärkte AG,152,65.9,0
+10269,WHITC,5,31-07-1996,Buchanan Steven,538.6,4.56,1,Speedy Express,White Clover Markets,33,Geitost,4,Dairy Products,02903,1,Eastern,15,Norske Meierier,27,45,0.050000001
+10270,WARTH,1,01-08-1996,Davolio Nancy,1200.8,136.54,3,Federal Shipping,Wartian Herkku,36,Inlagd Sill,8,Seafood,06897,1,Eastern,17,Svensk Sjöföda AB,32,75.8,0
+10273,QUICK,3,05-08-1996,Leverling Janet,155.4,76.07,1,Speedy Express,QUICK-Stop,10,Ikura,8,Seafood,30346,4,Southern,4,Tokyo Traders,8,36.3,0.050000001
+10274,VINET,6,06-08-1996,Suyama Michael,1414.8,6.01,3,Federal Shipping,Vins et alcools Chevalier,71,Flotemysost,4,Dairy Products,85014,2,Western,15,Norske Meierier,76,74.7,0
+10277,MORGK,2,09-08-1996,Fuller Andrew,88.8,125.77,1,Speedy Express,Morgenstern Gesundkost,28,Rössle Sauerkraut,7,Produce,01581,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,13,15.9,0
+10278,BERGS,8,12-08-1996,Callahan Laura,552.5,92.69,2,United Package,Berglunds snabbköp,44,Gula Malacca,2,Condiments,19428,3,Northern,20,Leka Trading,46,62.7,0
+10281,ROMEY,4,14-08-1996,Peacock Margaret,1420,2.94,2,United Package,Romero y tomillo,19,Teatime Chocolate Biscuits,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",80,42.2,0
+10282,ROMEY,4,15-08-1996,Peacock Margaret,608,12.69,2,United Package,Romero y tomillo,30,Nord-Ost Matjeshering,8,Seafood,20852,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,50,23.6,0
+10283,LILAS,3,16-08-1996,Leverling Janet,954.4,84.81,2,United Package,LILA-Supermercado,15,Genen Shouyu,2,Condiments,30346,4,Southern,6,Mayumi's,42,77.2,0
+10285,QUICK,1,20-08-1996,Davolio Nancy,88.8,76.83,3,Federal Shipping,QUICK-Stop,1,Chai,1,Beverages,06897,1,Eastern,1,Exotic Liquids,6,40.8,0.200000003
+10286,QUICK,8,21-08-1996,Callahan Laura,1762,229.24,1,Speedy Express,QUICK-Stop,35,Steeleye Stout,1,Beverages,19428,3,Northern,16,Bigfoot Breweries,75,102.8,0
+10288,REGGC,4,23-08-1996,Peacock Margaret,2326.7,7.45,2,United Package,Reggiani Caseifici,54,Tourtière,6,Meat/Poultry,20852,1,Eastern,25,Ma Maison,95,75.6,0.100000001
+10291,QUEDE,6,27-08-1996,Suyama Michael,1497,6.4,3,Federal Shipping,Que Delícia,13,Konbu,8,Seafood,85014,2,Western,6,Mayumi's,71,81.2,0.100000001
+10293,TORTU,1,29-08-1996,Davolio Nancy,1939.7,21.18,1,Speedy Express,Tortuga Restaurante,18,Carnarvon Tigers,8,Seafood,06897,1,Eastern,7,"Pavlova, Ltd.",75,52.7,0
+10295,VINET,2,02-09-1996,Fuller Andrew,1585.95,1.15,1,Speedy Express,Vins et alcools Chevalier,56,Gnocchi di nonna Alice,5,Grains/Cereals,01581,1,Eastern,26,Pasta Buttini s.r.l.,69,51,0
+10297,BLONP,5,04-09-1996,Buchanan Steven,927.7,5.74,3,Federal Shipping,Blondesddsl père et fils,39,Chartreuse verte,1,Beverages,02903,1,Eastern,18,Aux joyeux ecclésiastiques,70,46.5,0
+10300,MAGAA,2,09-09-1996,Fuller Andrew,136,17.68,2,United Package,Magazzini Alimentari Riuniti,66,Louisiana Hot Spiced Okra,2,Condiments,01581,1,Eastern,2,New Orleans Cajun Delights,10,27.2,0
+10304,TORTU,1,12-09-1996,Davolio Nancy,1273.6,63.79,1,Speedy Express,Tortuga Restaurante,49,Maxilaku,3,Confections,06897,1,Eastern,23,Karkki Oy,75,39.4,0
+10307,LONEP,2,17-09-1996,Fuller Andrew,1622.4,0.56,1,Speedy Express,Lonesome Pine Restaurant,62,Tarte au sucre,3,Confections,01581,1,Eastern,29,Forêts d'érables,51,66.1,0
+10308,ANATR,7,18-09-1996,King Robert,2207.9,1.61,2,United Package,Ana Trujillo Emparedados y helados,69,Gudbrandsdalsost,4,Dairy Products,60179,2,Western,15,Norske Meierier,80,56,0
+10309,HUNGO,3,19-09-1996,Leverling Janet,1897.2,47.3,1,Speedy Express,Hungry Owl All-Night Grocers,4,Chef Anton's Cajun Seasoning,2,Condiments,30346,4,Southern,2,New Orleans Cajun Delights,50,106.4,0
+10311,DUMON,1,20-09-1996,Davolio Nancy,452.8,24.69,2,United Package,Du monde entier,42,Singaporean Hokkien Fried Mee,5,Grains/Cereals,06897,1,Eastern,20,Leka Trading,40,22.2,0
+10314,RATTC,1,25-09-1996,Davolio Nancy,139.8,74.16,3,Federal Shipping,Rattlesnake Canyon Grocery,32,Mascarpone Fabioli,4,Dairy Products,06897,1,Eastern,14,Formaggi Fortini s.r.l.,8,49.8,0.100000001
+10315,ISLAT,4,26-09-1996,Peacock Margaret,835.2,41.76,1,Speedy Express,Island Trading,34,Sasquatch Ale,1,Beverages,20852,1,Eastern,16,Bigfoot Breweries,24,34.8,0
+10322,PERIC,7,04-10-1996,King Robert,595.8,0.4,2,United Package,Pericles Comidas clásicas,52,Filo Mix,5,Grains/Cereals,60179,2,Western,24,"G'day, Mate",22,41.5,0
+10325,KOENE,1,09-10-1996,Davolio Nancy,0,64.86,1,Speedy Express,Königlich Essen,6,Grandma's Boysenberry Spread,2,Condiments,06897,1,Eastern,3,Grandma Kelly's Homestead,0,0,0
+10328,FURIB,4,14-10-1996,Peacock Margaret,0,87.03,2,United Package,Furia Bacalhau e Frutos do Mar,59,Raclette Courdavault,4,Dairy Products,20852,1,Eastern,28,Gai pâturage,0,0,0
+10330,LILAS,3,16-10-1996,Leverling Janet,0,12.75,1,Speedy Express,LILA-Supermercado,26,Gumbär Gummibärchen,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,0,0,0.150000006
+10337,FRANK,4,24-10-1996,Peacock Margaret,1296,108.26,2,United Package,Frankenversand,23,Tunnbröd,5,Grains/Cereals,20852,1,Eastern,9,PB Knäckebröd AB,20,64.8,0
+10343,LEHMS,4,31-10-1996,Peacock Margaret,2708.8,110.37,2,United Package,Lehmanns Marktstand,64,Wimmers gute Semmelknödel,5,Grains/Cereals,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,80,104.4,0
+10345,QUICK,2,04-11-1996,Fuller Andrew,4156.7,249.06,3,Federal Shipping,QUICK-Stop,8,Northwoods Cranberry Sauce,2,Condiments,01581,1,Eastern,3,Grandma Kelly's Homestead,80,163.4,0
+10347,FAMIA,4,06-11-1996,Peacock Margaret,336,3.1,2,United Package,Familia Arquibaldo,25,NuNuCa Nuß-Nougat-Creme,3,Confections,20852,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,15,53.3,0
+10350,LAMAI,6,11-11-1996,Suyama Michael,2835,64.19,3,Federal Shipping,La maison d'Asie,50,Valkoinen suklaa,3,Confections,85014,2,Western,23,Karkki Oy,80,47.1,0.100000001
+10351,ERNSH,1,11-11-1996,Davolio Nancy,288,162.33,1,Speedy Express,Ernst Handel,38,Côte de Blaye,1,Beverages,06897,1,Eastern,18,Aux joyeux ecclésiastiques,20,14.4,0.050000001
+10366,GALED,8,28-11-1996,Callahan Laura,316.7,10.14,2,United Package,Galería del gastrónomo,65,Louisiana Fiery Hot Pepper Sauce,2,Condiments,19428,3,Northern,2,New Orleans Cajun Delights,18,17.6,0
+10373,HUNGO,4,05-12-1996,Peacock Margaret,1731.1,124.12,3,Federal Shipping,Hungry Owl All-Night Grocers,58,Escargots de Bourgogne,8,Seafood,20852,1,Eastern,27,Escargots Nouveaux,56,61.6,0.200000003
+10381,LILAS,3,12-12-1996,Leverling Janet,1359.6,7.99,3,Federal Shipping,LILA-Supermercado,74,Longlife Tofu,7,Produce,30346,4,Southern,4,Tokyo Traders,54,76.9,0
+10385,SPLIR,1,17-12-1996,Davolio Nancy,2273.4,30.96,2,United Package,Split Rail Beer & Ale,7,Uncle Bob's Organic Dried Pears,7,Produce,06897,1,Eastern,3,Grandma Kelly's Homestead,109,41.6,0.200000003
+10388,SEVES,2,19-12-1996,Fuller Andrew,950,34.86,1,Speedy Express,Seven Seas Imports,45,Rogede sild,8,Seafood,01581,1,Eastern,21,Lyngbysild,35,46,0.200000003
+10395,HILAA,6,26-12-1996,Suyama Michael,12280.2,184.41,2,United Package,HILARION-Abastos,46,Spegesild,8,Seafood,85014,2,Western,21,Lyngbysild,164,330.6,0.100000001
+10399,VAFFE,8,31-12-1996,Callahan Laura,1015.7,27.36,3,Federal Shipping,Vaffeljernet,68,Scottish Longbreads,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",40,50.8,0
+10408,FOLIG,8,08-01-1997,Callahan Laura,1832.8,11.26,2,United Package,Folies gourmandes,37,Gravad lax,8,Seafood,19428,3,Northern,17,Svensk Sjöföda AB,81,95.4,0
+10419,RICSU,4,20-01-1997,Peacock Margaret,2713.5,137.35,2,United Package,Richter Supermarkt,60,Camembert Pierrot,4,Dairy Products,20852,1,Eastern,28,Gai pâturage,125,42.3,0.050000001
+10420,WELLI,3,21-01-1997,Leverling Janet,1005.6,44.12,3,Federal Shipping,Wellington Importadora,9,Mishi Kobe Niku,6,Meat/Poultry,30346,4,Southern,4,Tokyo Traders,91,24.1,0.100000001
+10425,LAMAI,6,24-01-1997,Suyama Michael,319.2,7.93,1,Speedy Express,La maison d'Asie,55,Pâté chinois,6,Meat/Poultry,85014,2,Western,25,Ma Maison,24,26.6,0.25
+10453,AROUT,1,21-02-1997,Davolio Nancy,5792.5,25.36,2,United Package,Around the Horn,48,Chocolade,3,Confections,06897,1,Eastern,22,Zaanse Snoepfabriek,208,150.9,0.100000001
+10480,FOLIG,6,20-03-1997,Suyama Michael,717.6,1.35,3,Federal Shipping,Folies gourmandes,47,Zaanse koeken,3,Confections,85014,2,Western,22,Zaanse Snoepfabriek,23,57.5,0
+10507,ANTON,7,15-04-1997,King Robert,199.95,47.45,2,United Package,Antonio Moreno Taquería,43,Ipoh Coffee,1,Beverages,60179,2,Western,20,Leka Trading,20,10,0.150000006
+10538,BSBEV,9,15-05-1997,Dodsworth Anne,396,4.87,2,United Package,B's Beverages,70,Outback Lager,1,Beverages,03049,3,Northern,7,"Pavlova, Ltd.",20,58.3,0
+10556,SIMOB,2,03-06-1997,Fuller Andrew,1907.85,9.8,2,United Package,Simons bistro,72,Mozzarella di Giovanni,4,Dairy Products,01581,1,Eastern,14,Formaggi Fortini s.r.l.,84,51,0
+10581,FAMIA,3,26-06-1997,Leverling Janet,2082,3.01,3,Federal Shipping,Familia Arquibaldo,75,Rhönbräu Klosterbier,1,Beverages,30346,4,Southern,12,Plutzer Lebensmittelgroßmärkte AG,83,85.8,0.200000003
+10582,BLAUS,3,27-06-1997,Leverling Janet,764.3,27.71,2,United Package,Blauer See Delikatessen,57,Ravioli Angelo,5,Grains/Cereals,30346,4,Southern,26,Pasta Buttini s.r.l.,32,103.45,0
+10602,VAFFE,8,17-07-1997,Callahan Laura,1475.5,2.92,1,Speedy Express,Vaffeljernet,77,Original Frankfurter grüne Soße,2,Condiments,19428,3,Northern,12,Plutzer Lebensmittelgroßmärkte AG,59,89.65,0.25
+10665,LONEP,1,11-09-1997,Davolio Nancy,1701,26.31,1,Speedy Express,Lonesome Pine Restaurant,51,Manjimup Dried Apples,7,Produce,06897,1,Eastern,24,"G'day, Mate",21,81,0
+10692,ALFKI,4,03-10-1997,Peacock Margaret,3489.8,61.02,2,United Package,Alfreds Futterkiste,63,Vegie-spread,2,Condiments,20852,1,Eastern,7,"Pavlova, Ltd.",92,90.6,0
+10732,BONAP,3,06-11-1997,Leverling Janet,1850,16.97,3,Federal Shipping,Bon app',76,Lakkalikööri,1,Beverages,30346,4,Southern,23,Karkki Oy,120,44.25,0
+10735,LETSS,6,10-11-1997,Suyama Michael,1459,45.97,3,Federal Shipping,Let's Stop N Shop,61,Sirop d'érable,2,Condiments,85014,2,Western,29,Forêts d'érables,61,75.85,0.100000001
+10881,CACTU,4,11-02-1998,Peacock Margaret,1874.4,2.84,1,Speedy Express,Cactus Comidas para llevar,73,Röd Kaviar,8,Seafood,20852,1,Eastern,17,Svensk Sjöföda AB,110,52.5,0
+10258,ERNSH,1,17-07-1996,Davolio Nancy,624.9,140.51,2,United Package,Ernst Handel,2,Chang,1,Beverages,06897,1,Eastern,1,Exotic Liquids,57,30.8,0.200000003
+10260,OTTIK,4,19-07-1996,Peacock Margaret,1119.9,55.09,3,Federal Shipping,Ottilies Käseladen,41,Jack's New England Clam Chowder,8,Seafood,20852,1,Eastern,19,New England Seafood Cannery,46,59.9,0.25
+10261,QUEDE,4,19-07-1996,Peacock Margaret,100.8,3.05,3,Federal Shipping,Que Delícia,21,Sir Rodney's Scones,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",11,28.8,0
+10264,FOLKO,6,24-07-1996,Suyama Michael,4030.7,3.67,1,Speedy Express,Folk och fä HB,2,Chang,1,Beverages,85014,2,Western,1,Exotic Liquids,135,73.1,0
+10271,SPLIR,6,01-08-1996,Suyama Michael,1488.8,4.54,2,United Package,Split Rail Beer & Ale,33,Geitost,4,Dairy Products,85014,2,Western,15,Norske Meierier,64,106.6,0
+10272,RATTC,6,02-08-1996,Suyama Michael,86.5,98.03,1,Speedy Express,Rattlesnake Canyon Grocery,20,Sir Rodney's Marmalade,3,Confections,85014,2,Western,8,"Specialty Biscuits, Ltd.",11,25.3,0
+10275,MAGAA,1,07-08-1996,Davolio Nancy,2178.6,26.93,2,United Package,Magazzini Alimentari Riuniti,24,Guaraná Fantástica,1,Beverages,06897,1,Eastern,10,Refrescos Americanas LTDA,121,55.3,0.050000001
+10276,TORTU,8,08-08-1996,Callahan Laura,3016,13.84,3,Federal Shipping,Tortuga Restaurante,10,Ikura,8,Seafood,19428,3,Northern,4,Tokyo Traders,140,53.8,0
+10279,LEHMS,8,13-08-1996,Callahan Laura,848.7,25.83,3,Federal Shipping,Lehmanns Marktstand,17,Alice Mutton,6,Meat/Poultry,19428,3,Northern,7,"Pavlova, Ltd.",33,94.9,0.25
+10280,BERGS,2,14-08-1996,Fuller Andrew,121.6,8.98,2,United Package,Berglunds snabbköp,24,Guaraná Fantástica,1,Beverages,01581,1,Eastern,10,Refrescos Americanas LTDA,4,30.4,0
+10284,LEHMS,4,19-08-1996,Peacock Margaret,424,76.56,2,United Package,Lehmanns Marktstand,27,Schoggi Schokolade,3,Confections,20852,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,13,49.4,0.25
+10287,RICAR,8,22-08-1996,Callahan Laura,268.8,12.76,3,Federal Shipping,Ricardo Adocicados,16,Pavlova,3,Confections,19428,3,Northern,7,"Pavlova, Ltd.",13,40,0.150000006
+10290,COMMI,8,27-08-1996,Callahan Laura,112,79.7,3,Federal Shipping,Comércio Mineiro,5,Chef Anton's Gumbo Mix,2,Condiments,19428,3,Northern,2,New Orleans Cajun Delights,20,5.6,0
+10292,TRADH,1,28-08-1996,Davolio Nancy,1168,1.35,3,Federal Shipping,Tradição Hipermercados,20,Sir Rodney's Marmalade,3,Confections,06897,1,Eastern,8,"Specialty Biscuits, Ltd.",59,70.8,0
+10294,RATTC,4,30-08-1996,Peacock Margaret,2467,147.26,3,Federal Shipping,Rattlesnake Canyon Grocery,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,137,95.9,0
+10296,LILAS,6,03-09-1996,Suyama Michael,2924.8,0.12,2,United Package,LILA-Supermercado,11,Queso Cabrales,4,Dairy Products,85014,2,Western,5,Cooperativa de Quesos 'Las Cabras',159,50.5,0
+10298,HUNGO,6,05-09-1996,Suyama Michael,713.2,168.22,2,United Package,Hungry Owl All-Night Grocers,2,Chang,1,Beverages,85014,2,Western,1,Exotic Liquids,33,41.8,0
+10299,RICAR,4,06-09-1996,Peacock Margaret,5677.45,29.76,1,Speedy Express,Ricardo Adocicados,19,Teatime Chocolate Biscuits,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",120,250.8,0
+10301,WANDK,8,09-09-1996,Callahan Laura,1707.6,45.08,3,Federal Shipping,Die Wandernde Kuh,40,Boston Crab Meat,8,Seafood,19428,3,Northern,19,New England Seafood Cannery,130,27.8,0
+10302,SUPRD,4,10-09-1996,Peacock Margaret,112,6.27,3,Federal Shipping,Suprêmes délices,17,Alice Mutton,6,Meat/Poultry,20852,1,Eastern,7,"Pavlova, Ltd.",14,8,0
+10303,GODOS,7,11-09-1996,King Robert,863.4,107.83,2,United Package,Godos Cocina Típica,40,Boston Crab Meat,8,Seafood,60179,2,Western,19,New England Seafood Cannery,38,61.2,0.100000001
+10305,OLDWO,8,13-09-1996,Callahan Laura,2333,257.62,1,Speedy Express,Old World Delicatessen,18,Carnarvon Tigers,8,Seafood,19428,3,Northern,7,"Pavlova, Ltd.",106,64.6,0.100000001
+10306,ROMEY,1,16-09-1996,Davolio Nancy,1765.6,7.56,3,Federal Shipping,Romero y tomillo,30,Nord-Ost Matjeshering,8,Seafood,06897,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,139,52,0
+10310,THEBI,8,20-09-1996,Callahan Laura,479.5,17.52,2,United Package,The Big Cheese,16,Pavlova,3,Confections,19428,3,Northern,7,"Pavlova, Ltd.",30,33.6,0
+10312,WANDK,2,23-09-1996,Fuller Andrew,756,40.26,2,United Package,Die Wandernde Kuh,28,Rössle Sauerkraut,7,Produce,01581,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,42,51.6,0
+10313,QUICK,2,24-09-1996,Fuller Andrew,880.95,1.96,1,Speedy Express,QUICK-Stop,36,Inlagd Sill,8,Seafood,01581,1,Eastern,17,Svensk Sjöföda AB,30,58.75,0
+10316,RATTC,1,27-09-1996,Davolio Nancy,387.3,150.15,1,Speedy Express,Rattlesnake Canyon Grocery,41,Jack's New England Clam Chowder,8,Seafood,06897,1,Eastern,19,New England Seafood Cannery,50,7.75,0
+10317,LONEP,6,30-09-1996,Suyama Michael,330,12.69,2,United Package,Lonesome Pine Restaurant,1,Chai,1,Beverages,85014,2,Western,1,Exotic Liquids,18,37.5,0
+10318,ISLAT,8,01-10-1996,Callahan Laura,64.75,4.73,2,United Package,Island Trading,41,Jack's New England Clam Chowder,8,Seafood,19428,3,Northern,19,New England Seafood Cannery,5,13,0
+10319,TORTU,7,02-10-1996,King Robert,1295,64.5,2,United Package,Tortuga Restaurante,17,Alice Mutton,6,Meat/Poultry,60179,2,Western,7,"Pavlova, Ltd.",31,126,0
+10320,WARTH,5,03-10-1996,Buchanan Steven,878,34.57,2,United Package,Wartian Herkku,71,Flotemysost,4,Dairy Products,02903,1,Eastern,15,Norske Meierier,20,43.9,0
+10321,ISLAT,3,03-10-1996,Leverling Janet,360,3.43,1,Speedy Express,Island Trading,35,Steeleye Stout,1,Beverages,30346,4,Southern,16,Bigfoot Breweries,20,18,0
+10323,KOENE,4,07-10-1996,Peacock Margaret,150,4.88,1,Speedy Express,Königlich Essen,15,Genen Shouyu,2,Condiments,20852,1,Eastern,6,Mayumi's,10,15,0
+10324,SAVEA,9,08-10-1996,Dodsworth Anne,0,214.27,1,Speedy Express,Save-a-lot Markets,16,Pavlova,3,Confections,03049,3,Northern,7,"Pavlova, Ltd.",0,0,0.150000006
+10326,BOLID,4,10-10-1996,Peacock Margaret,0,77.92,2,United Package,Bólido Comidas preparadas,4,Chef Anton's Cajun Seasoning,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,0,0,0
+10327,FOLKO,2,11-10-1996,Fuller Andrew,0,63.36,3,Federal Shipping,Folk och fä HB,2,Chang,1,Beverages,01581,1,Eastern,1,Exotic Liquids,0,0,0.200000003
+10329,SPLIR,4,15-10-1996,Peacock Margaret,0,191.67,2,United Package,Split Rail Beer & Ale,19,Teatime Chocolate Biscuits,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",0,0,0.050000001
+10331,BONAP,9,16-10-1996,Dodsworth Anne,0,10.19,3,Federal Shipping,Bon app',54,Tourtière,6,Meat/Poultry,03049,3,Northern,25,Ma Maison,0,0,0
+10332,MEREP,3,17-10-1996,Leverling Janet,0,52.84,2,United Package,Mère Paillarde,18,Carnarvon Tigers,8,Seafood,30346,4,Southern,7,"Pavlova, Ltd.",0,0,0.200000003
+10333,WARTH,5,18-10-1996,Buchanan Steven,186,0.59,1,Speedy Express,Wartian Herkku,14,Tofu,7,Produce,02903,1,Eastern,6,Mayumi's,30,6.2,0
+10334,VICTE,8,21-10-1996,Callahan Laura,1451.25,8.56,1,Speedy Express,Victuailles en stock,52,Filo Mix,5,Grains/Cereals,19428,3,Northern,24,"G'day, Mate",61,89,0
+10335,HUNGO,7,22-10-1996,King Robert,923.7,42.11,3,Federal Shipping,Hungry Owl All-Night Grocers,2,Chang,1,Beverages,60179,2,Western,1,Exotic Liquids,75,34.7,0.200000003
+10336,PRINI,7,23-10-1996,King Robert,2169,15.51,1,Speedy Express,Princesa Isabel Vinhos,4,Chef Anton's Cajun Seasoning,2,Condiments,60179,2,Western,2,New Orleans Cajun Delights,60,142.4,0.100000001
+10338,OLDWO,4,25-10-1996,Peacock Margaret,1887.6,84.21,2,United Package,Old World Delicatessen,17,Alice Mutton,6,Meat/Poultry,20852,1,Eastern,7,"Pavlova, Ltd.",75,115.8,0
+10339,MEREP,2,28-10-1996,Fuller Andrew,1050.6,15.66,1,Speedy Express,Mère Paillarde,4,Chef Anton's Cajun Seasoning,2,Condiments,01581,1,Eastern,2,New Orleans Cajun Delights,57,59.5,0
+10340,BONAP,1,29-10-1996,Davolio Nancy,3126.5,166.31,2,United Package,Bon app',18,Carnarvon Tigers,8,Seafood,06897,1,Eastern,7,"Pavlova, Ltd.",125,113.8,0.050000001
+10341,SIMOB,7,29-10-1996,King Robert,349.5,26.78,2,United Package,Simons bistro,33,Geitost,4,Dairy Products,60179,2,Western,15,Norske Meierier,35,19.3,0
+10342,FRANK,4,30-10-1996,Peacock Margaret,755,54.83,2,United Package,Frankenversand,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,30,45.1,0.200000003
+10344,WHITC,4,01-11-1996,Peacock Margaret,1241.7,23.29,2,United Package,White Clover Markets,4,Chef Anton's Cajun Seasoning,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,85,41.5,0
+10346,RATTC,3,05-11-1996,Leverling Janet,498.5,142.08,3,Federal Shipping,Rattlesnake Canyon Grocery,17,Alice Mutton,6,Meat/Poultry,30346,4,Southern,7,"Pavlova, Ltd.",25,52.8,0.100000001
+10348,WANDK,4,07-11-1996,Peacock Margaret,1614.8,0.78,2,United Package,Die Wandernde Kuh,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,58,105.6,0.150000006
+10349,SPLIR,7,08-11-1996,King Robert,182.4,8.63,2,United Package,Split Rail Beer & Ale,54,Tourtière,6,Meat/Poultry,60179,2,Western,25,Ma Maison,12,15.2,0
+10352,FURIB,3,12-11-1996,Leverling Janet,240.4,1.3,2,United Package,Furia Bacalhau e Frutos do Mar,24,Guaraná Fantástica,1,Beverages,30346,4,Southern,10,Refrescos Americanas LTDA,26,22.1,0
+10353,PICCO,7,13-11-1996,King Robert,1191.2,360.63,3,Federal Shipping,Piccolo und mehr,11,Queso Cabrales,4,Dairy Products,60179,2,Western,5,Cooperativa de Quesos 'Las Cabras',52,82,0.200000003
+10354,PERIC,8,14-11-1996,Callahan Laura,516,53.8,3,Federal Shipping,Pericles Comidas clásicas,1,Chai,1,Beverages,19428,3,Northern,1,Exotic Liquids,30,17.2,0
+10355,AROUT,6,15-11-1996,Suyama Michael,144,41.95,2,United Package,Around the Horn,24,Guaraná Fantástica,1,Beverages,85014,2,Western,10,Refrescos Americanas LTDA,10,14.4,0
+10356,WANDK,6,18-11-1996,Suyama Michael,164.4,36.71,1,Speedy Express,Die Wandernde Kuh,31,Gorgonzola Telino,4,Dairy Products,85014,2,Western,14,Formaggi Fortini s.r.l.,13,38,0
+10357,LILAS,1,19-11-1996,Davolio Nancy,6155.3,34.88,1,Speedy Express,LILA-Supermercado,10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,241,117,0.200000003
+10358,LAMAI,5,20-11-1996,Buchanan Steven,982,19.64,2,United Package,La maison d'Asie,24,Guaraná Fantástica,1,Beverages,02903,1,Eastern,10,Refrescos Americanas LTDA,90,39.4,0.050000001
+10359,SEVES,5,21-11-1996,Buchanan Steven,2261.7,288.43,1,Speedy Express,Seven Seas Imports,16,Pavlova,3,Confections,02903,1,Eastern,7,"Pavlova, Ltd.",140,63.3,0.050000001
+10360,BLONP,4,22-11-1996,Peacock Margaret,4819.2,131.7,2,United Package,Blondesddsl père et fils,28,Rössle Sauerkraut,7,Produce,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,50,269.2,0
+10361,QUICK,1,22-11-1996,Davolio Nancy,88.5,183.17,1,Speedy Express,QUICK-Stop,39,Chartreuse verte,1,Beverages,06897,1,Eastern,18,Aux joyeux ecclésiastiques,15,5.9,0.100000001
+10362,BONAP,3,25-11-1996,Leverling Janet,2233,96.04,2,United Package,Bon app',25,NuNuCa Nuß-Nougat-Creme,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,66,68.8,0
+10363,DRACD,4,26-11-1996,Peacock Margaret,953.8,30.54,3,Federal Shipping,Drachenblut Delikatessen,31,Gorgonzola Telino,4,Dairy Products,20852,1,Eastern,14,Formaggi Fortini s.r.l.,60,43.8,0
+10364,EASTC,1,26-11-1996,Davolio Nancy,144.8,71.97,2,United Package,Eastern Connection,69,Gudbrandsdalsost,4,Dairy Products,06897,1,Eastern,15,Norske Meierier,18,15.6,0
+10365,ANTON,3,27-11-1996,Leverling Janet,2544.4,22,2,United Package,Antonio Moreno Taquería,11,Queso Cabrales,4,Dairy Products,30346,4,Southern,5,Cooperativa de Quesos 'Las Cabras',86,93.2,0
+10367,VAFFE,7,28-11-1996,King Robert,934.5,13.55,3,Federal Shipping,Vaffeljernet,34,Sasquatch Ale,1,Beverages,60179,2,Western,16,Bigfoot Breweries,35,51.9,0
+10368,ERNSH,2,29-11-1996,Fuller Andrew,3463.15,101.95,2,United Package,Ernst Handel,21,Sir Rodney's Scones,3,Confections,01581,1,Eastern,8,"Specialty Biscuits, Ltd.",108,88.2,0.100000001
+10369,SPLIR,8,02-12-1996,Callahan Laura,2564.25,195.68,3,Federal Shipping,Split Rail Beer & Ale,29,Thüringer Rostbratwurst,6,Meat/Poultry,19428,3,Northern,12,Plutzer Lebensmittelgroßmärkte AG,72,94.5,0
+10370,CHOPS,6,03-12-1996,Suyama Michael,411.85,1.17,3,Federal Shipping,Chop-suey Chinese,1,Chai,1,Beverages,85014,2,Western,1,Exotic Liquids,17,46,0.150000006
+10371,LAMAI,1,03-12-1996,Davolio Nancy,2300,0.45,2,United Package,La maison d'Asie,36,Inlagd Sill,8,Seafood,06897,1,Eastern,17,Svensk Sjöföda AB,160,59.6,0.200000003
+10372,QUEEN,5,04-12-1996,Buchanan Steven,2855.75,890.78,2,United Package,Queen Cozinha,20,Sir Rodney's Marmalade,3,Confections,02903,1,Eastern,8,"Specialty Biscuits, Ltd.",105,49.6,0.25
+10374,WOLZA,1,05-12-1996,Davolio Nancy,395.85,3.94,2,United Package,Wolski  Zajazd,31,Gorgonzola Telino,4,Dairy Products,06897,1,Eastern,14,Formaggi Fortini s.r.l.,40,21.6,0
+10375,HUNGC,3,06-12-1996,Leverling Janet,141.6,20.12,1,Speedy Express,Hungry Coyote Import Store,14,Tofu,7,Produce,30346,4,Southern,6,Mayumi's,24,5.9,0
+10376,MEREP,1,09-12-1996,Davolio Nancy,153.85,20.39,3,Federal Shipping,Mère Paillarde,31,Gorgonzola Telino,4,Dairy Products,06897,1,Eastern,14,Formaggi Fortini s.r.l.,30,9.5,0.050000001
+10377,SEVES,1,09-12-1996,Davolio Nancy,10741.2,22.21,3,Federal Shipping,Seven Seas Imports,28,Rössle Sauerkraut,7,Produce,06897,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,62,227.6,0.150000006
+10378,FOLKO,5,10-12-1996,Buchanan Steven,568.8,5.44,3,Federal Shipping,Folk och fä HB,71,Flotemysost,4,Dairy Products,02903,1,Eastern,15,Norske Meierier,16,113.4,0
+10379,QUEDE,2,11-12-1996,Fuller Andrew,480,45.03,1,Speedy Express,Que Delícia,41,Jack's New England Clam Chowder,8,Seafood,01581,1,Eastern,19,New England Seafood Cannery,50,19.2,0.100000001
+10380,HUNGO,8,12-12-1996,Callahan Laura,1106.4,35.03,2,United Package,Hungry Owl All-Night Grocers,30,Nord-Ost Matjeshering,8,Seafood,19428,3,Northern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,62,58,0.100000001
+10382,ERNSH,4,13-12-1996,Peacock Margaret,451.85,94.77,1,Speedy Express,Ernst Handel,5,Chef Anton's Gumbo Mix,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,40,30,0
+10383,AROUT,8,16-12-1996,Callahan Laura,3654.25,34.24,3,Federal Shipping,Around the Horn,13,Konbu,8,Seafood,19428,3,Northern,6,Mayumi's,206,51.1,0
+10384,BERGS,3,16-12-1996,Leverling Janet,7390.2,168.64,3,Federal Shipping,Berglunds snabbköp,20,Sir Rodney's Marmalade,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",138,368.1,0
+10386,FAMIA,9,18-12-1996,Dodsworth Anne,1549.6,13.99,1,Speedy Express,Familia Arquibaldo,24,Guaraná Fantástica,1,Beverages,03049,3,Northern,10,Refrescos Americanas LTDA,94,59.5,0
+10387,SANTG,1,18-12-1996,Davolio Nancy,447.2,93.63,3,Federal Shipping,Santé Gourmet,24,Guaraná Fantástica,1,Beverages,06897,1,Eastern,10,Refrescos Americanas LTDA,44,30.6,0
+10389,BOTTM,4,20-12-1996,Peacock Margaret,403.2,47.42,2,United Package,Bottom-Dollar Markets,10,Ikura,8,Seafood,20852,1,Eastern,4,Tokyo Traders,24,16.8,0
+10390,ERNSH,6,23-12-1996,Suyama Michael,834.2,126.38,3,Federal Shipping,Ernst Handel,31,Gorgonzola Telino,4,Dairy Products,85014,2,Western,14,Formaggi Fortini s.r.l.,76,44.3,0.100000001
+10391,DRACD,3,23-12-1996,Leverling Janet,1833.9,5.45,2,United Package,Drachenblut Delikatessen,13,Konbu,8,Seafood,30346,4,Southern,6,Mayumi's,78,86.6,0
+10392,PICCO,2,24-12-1996,Fuller Andrew,2526.95,122.46,2,United Package,Piccolo und mehr,69,Gudbrandsdalsost,4,Dairy Products,01581,1,Eastern,15,Norske Meierier,38,129.4,0
+10393,SAVEA,1,25-12-1996,Davolio Nancy,1173.7,126.56,2,United Package,Save-a-lot Markets,2,Chang,1,Beverages,06897,1,Eastern,1,Exotic Liquids,65,49,0.25
+10394,HUNGC,1,25-12-1996,Davolio Nancy,91,30.34,1,Speedy Express,Hungry Coyote Import Store,13,Konbu,8,Seafood,06897,1,Eastern,6,Mayumi's,6,15.2,0
+10396,FRANK,1,27-12-1996,Davolio Nancy,459,135.35,3,Federal Shipping,Frankenversand,23,Tunnbröd,5,Grains/Cereals,06897,1,Eastern,9,PB Knäckebröd AB,45,20.6,0
+10397,PRINI,5,27-12-1996,Buchanan Steven,338,60.26,2,United Package,Princesa Isabel Vinhos,21,Sir Rodney's Scones,3,Confections,02903,1,Eastern,8,"Specialty Biscuits, Ltd.",25,24.5,0.150000006
+10398,SAVEA,2,30-12-1996,Fuller Andrew,419.95,89.16,2,United Package,Save-a-lot Markets,35,Steeleye Stout,1,Beverages,01581,1,Eastern,16,Bigfoot Breweries,42,10,0
+10400,EASTC,1,01-01-1997,Davolio Nancy,103.2,83.93,3,Federal Shipping,Eastern Connection,29,Thüringer Rostbratwurst,6,Meat/Poultry,06897,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,6,17.2,0
+10401,RATTC,1,01-01-1997,Davolio Nancy,958.9,12.51,1,Speedy Express,Rattlesnake Canyon Grocery,30,Nord-Ost Matjeshering,8,Seafood,06897,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,44,59.6,0
+10402,ERNSH,8,02-01-1997,Callahan Laura,1419.5,67.88,3,Federal Shipping,Ernst Handel,23,Tunnbröd,5,Grains/Cereals,19428,3,Northern,9,PB Knäckebröd AB,74,86.1,0
+10403,ERNSH,4,03-01-1997,Peacock Margaret,2900,73.79,1,Speedy Express,Ernst Handel,16,Pavlova,3,Confections,20852,1,Eastern,7,"Pavlova, Ltd.",165,176,0.150000006
+10404,MAGAA,2,03-01-1997,Fuller Andrew,899,155.97,3,Federal Shipping,Magazzini Alimentari Riuniti,26,Gumbär Gummibärchen,3,Confections,01581,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,55,48.2,0.050000001
+10405,LINOD,1,06-01-1997,Davolio Nancy,2222.4,34.82,3,Federal Shipping,LINO-Delicateses,3,Aniseed Syrup,2,Condiments,06897,1,Eastern,1,Exotic Liquids,43,92,0
+10406,QUEEN,7,07-01-1997,King Robert,166,108.04,3,Federal Shipping,Queen Cozinha,1,Chai,1,Beverages,60179,2,Western,1,Exotic Liquids,25,14.8,0
+10407,OTTIK,2,07-01-1997,Fuller Andrew,1058.4,91.48,2,United Package,Ottilies Käseladen,11,Queso Cabrales,4,Dairy Products,01581,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',48,101.2,0
+10409,OCEAN,3,09-01-1997,Leverling Janet,2274.9,29.83,1,Speedy Express,Océano Atlántico Ltda.,14,Tofu,7,Produce,30346,4,Southern,6,Mayumi's,169,61.8,0
+10410,BOTTM,3,10-01-1997,Leverling Janet,86.4,2.4,3,Federal Shipping,Bottom-Dollar Markets,33,Geitost,4,Dairy Products,30346,4,Southern,15,Norske Meierier,18,4.8,0
+10411,BOTTM,9,10-01-1997,Dodsworth Anne,1440,23.65,3,Federal Shipping,Bottom-Dollar Markets,41,Jack's New England Clam Chowder,8,Seafood,03049,3,Northern,19,New England Seafood Cannery,50,28.8,0.200000003
+10412,WARTH,8,13-01-1997,Callahan Laura,3301.6,3.77,3,Federal Shipping,Wartian Herkku,14,Tofu,7,Produce,19428,3,Northern,6,Mayumi's,176,79.9,0.100000001
+10413,LAMAI,3,14-01-1997,Leverling Janet,442,95.66,3,Federal Shipping,La maison d'Asie,1,Chai,1,Beverages,30346,4,Southern,1,Exotic Liquids,20,44.2,0
+10414,FAMIA,2,14-01-1997,Fuller Andrew,1903.8,21.48,3,Federal Shipping,Familia Arquibaldo,19,Teatime Chocolate Biscuits,3,Confections,01581,1,Eastern,8,"Specialty Biscuits, Ltd.",121,52.2,0.050000001
+10415,HUNGC,3,15-01-1997,Leverling Janet,842.9,0.2,1,Speedy Express,Hungry Coyote Import Store,17,Alice Mutton,6,Meat/Poultry,30346,4,Southern,7,"Pavlova, Ltd.",28,50.4,0
+10416,WARTH,8,16-01-1997,Callahan Laura,2735.9,22.72,3,Federal Shipping,Wartian Herkku,19,Teatime Chocolate Biscuits,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",150,33.6,0
+10417,SIMOB,4,16-01-1997,Peacock Margaret,3063,70.29,3,Federal Shipping,Simons bistro,38,Côte de Blaye,1,Beverages,20852,1,Eastern,18,Aux joyeux ecclésiastiques,86,129.4,0
+10418,QUICK,4,17-01-1997,Peacock Margaret,3868.6,17.55,1,Speedy Express,QUICK-Stop,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,168,85.1,0
+10421,QUEDE,8,21-01-1997,Callahan Laura,1674.85,99.23,1,Speedy Express,Que Delícia,19,Teatime Chocolate Biscuits,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",100,52.1,0.150000006
+10422,FRANS,2,22-01-1997,Fuller Andrew,400,3.02,1,Speedy Express,Franchi S.p.A.,26,Gumbär Gummibärchen,3,Confections,01581,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,50,8,0
+10423,GOURL,6,23-01-1997,Suyama Michael,2017.8,24.5,1,Speedy Express,Gourmet Lanchonetes,31,Gorgonzola Telino,4,Dairy Products,85014,2,Western,14,Formaggi Fortini s.r.l.,89,88.7,0
+10424,MEREP,7,23-01-1997,King Robert,1194,370.61,2,United Package,Mère Paillarde,35,Steeleye Stout,1,Beverages,60179,2,Western,16,Bigfoot Breweries,60,62.8,0.200000003
+10426,GALED,4,27-01-1997,Peacock Margaret,802,18.69,3,Federal Shipping,Galería del gastrónomo,56,Gnocchi di nonna Alice,5,Grains/Cereals,20852,1,Eastern,26,Pasta Buttini s.r.l.,65,46,0
+10427,PICCO,4,27-01-1997,Peacock Margaret,1207.9,31.29,3,Federal Shipping,Piccolo und mehr,14,Tofu,7,Produce,20852,1,Eastern,6,Mayumi's,74,67.2,0
+10428,REGGC,7,28-01-1997,King Robert,371.9,11.09,2,United Package,Reggiani Caseifici,46,Spegesild,8,Seafood,60179,2,Western,21,Lyngbysild,20,18.6,0
+10429,HUNGO,3,29-01-1997,Leverling Janet,2123.2,56.63,2,United Package,Hungry Owl All-Night Grocers,50,Valkoinen suklaa,3,Confections,30346,4,Southern,23,Karkki Oy,78,68.2,0
+10430,ERNSH,4,30-01-1997,Peacock Margaret,231.35,458.78,3,Federal Shipping,Ernst Handel,17,Alice Mutton,6,Meat/Poultry,20852,1,Eastern,7,"Pavlova, Ltd.",68,9.3,0.200000003
+10431,BOTTM,4,30-01-1997,Peacock Margaret,102.4,44.17,1,Speedy Express,Bottom-Dollar Markets,17,Alice Mutton,6,Meat/Poultry,20852,1,Eastern,7,"Pavlova, Ltd.",22,33.2,0.25
+10432,SPLIR,3,31-01-1997,Leverling Janet,720,4.34,3,Federal Shipping,Split Rail Beer & Ale,26,Gumbär Gummibärchen,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,50,49.1,0
+10433,PRINI,3,03-02-1997,Leverling Janet,11282.7,73.83,3,Federal Shipping,Princesa Isabel Vinhos,56,Gnocchi di nonna Alice,5,Grains/Cereals,30346,4,Southern,26,Pasta Buttini s.r.l.,123,240.8,0
+10434,FOLKO,3,03-02-1997,Leverling Janet,1814.8,17.92,1,Speedy Express,Folk och fä HB,11,Queso Cabrales,4,Dairy Products,30346,4,Southern,5,Cooperativa de Quesos 'Las Cabras',146,53.6,0
+10435,CONSH,8,04-02-1997,Callahan Laura,1272.75,9.21,1,Speedy Express,Consolidated Holdings,2,Chang,1,Beverages,19428,3,Northern,1,Exotic Liquids,59,68.8,0
+10436,BLONP,3,05-02-1997,Leverling Janet,49.8,156.66,1,Speedy Express,Blondesddsl père et fils,46,Spegesild,8,Seafood,30346,4,Southern,21,Lyngbysild,2,24.9,0
+10437,WARTH,8,05-02-1997,Callahan Laura,1020,19.97,3,Federal Shipping,Wartian Herkku,53,Perth Pasties,6,Meat/Poultry,19428,3,Northern,24,"G'day, Mate",34,54,0
+10438,TOMSP,3,06-02-1997,Leverling Janet,11492.6,8.24,2,United Package,Toms Spezialitäten,19,Teatime Chocolate Biscuits,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",139,235.2,0.200000003
+10439,MEREP,6,07-02-1997,Suyama Michael,338.2,4.07,1,Speedy Express,Mère Paillarde,12,Queso Manchego La Pastora,4,Dairy Products,85014,2,Western,5,Cooperativa de Quesos 'Las Cabras',12,57,0
+10440,SAVEA,4,10-02-1997,Peacock Margaret,651,86.53,2,United Package,Save-a-lot Markets,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,35,18.6,0.150000006
+10441,OLDWO,3,10-02-1997,Leverling Janet,192,73.02,1,Speedy Express,Old World Delicatessen,27,Schoggi Schokolade,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,20,9.6,0
+10442,ERNSH,3,11-02-1997,Leverling Janet,1748.25,47.94,2,United Package,Ernst Handel,11,Queso Cabrales,4,Dairy Products,30346,4,Southern,5,Cooperativa de Quesos 'Las Cabras',75,48.1,0
+10443,REGGC,8,12-02-1997,Callahan Laura,5795.6,13.95,1,Speedy Express,Reggiani Caseifici,11,Queso Cabrales,4,Dairy Products,19428,3,Northern,5,Cooperativa de Quesos 'Las Cabras',195,113.6,0.200000003
+10444,BERGS,3,12-02-1997,Leverling Janet,2522.25,3.5,2,United Package,Berglunds snabbköp,17,Alice Mutton,6,Meat/Poultry,30346,4,Southern,7,"Pavlova, Ltd.",130,53.5,0
+10445,BERGS,3,13-02-1997,Leverling Janet,485,9.3,2,United Package,Berglunds snabbköp,39,Chartreuse verte,1,Beverages,30346,4,Southern,18,Aux joyeux ecclésiastiques,50,30.8,0
+10446,TOMSP,6,14-02-1997,Suyama Michael,851.2,14.68,3,Federal Shipping,Toms Spezialitäten,19,Teatime Chocolate Biscuits,3,Confections,85014,2,Western,8,"Specialty Biscuits, Ltd.",28,30.4,0.100000001
+10447,RICAR,4,14-02-1997,Peacock Margaret,359.85,68.66,2,United Package,Ricardo Adocicados,19,Teatime Chocolate Biscuits,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",24,31.2,0
+10448,RANCH,4,17-02-1997,Peacock Margaret,631.6,38.82,2,United Package,Rancho grande,26,Gumbär Gummibärchen,3,Confections,20852,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,32,59.8,0
+10449,BLONP,3,18-02-1997,Leverling Janet,2210.5,53.3,2,United Package,Blondesddsl père et fils,10,Ikura,8,Seafood,30346,4,Southern,4,Tokyo Traders,99,72.8,0
+10450,VICTE,8,19-02-1997,Callahan Laura,393,7.23,1,Speedy Express,Victuailles en stock,10,Ikura,8,Seafood,19428,3,Northern,4,Tokyo Traders,15,26.2,0.200000003
+10451,QUICK,4,19-02-1997,Peacock Margaret,566.9,189.09,2,United Package,QUICK-Stop,55,Pâté chinois,6,Meat/Poultry,20852,1,Eastern,25,Ma Maison,50,34.1,0.100000001
+10452,SAVEA,8,20-02-1997,Callahan Laura,1078,140.26,3,Federal Shipping,Save-a-lot Markets,28,Rössle Sauerkraut,7,Produce,19428,3,Northern,12,Plutzer Lebensmittelgroßmärkte AG,67,78.9,0
+10454,LAMAI,4,21-02-1997,Peacock Margaret,1755,2.74,2,United Package,La maison d'Asie,16,Pavlova,3,Confections,20852,1,Eastern,7,"Pavlova, Ltd.",50,35.1,0.200000003
+10455,WARTH,8,24-02-1997,Callahan Laura,1792,180.45,2,United Package,Wartian Herkku,39,Chartreuse verte,1,Beverages,19428,3,Northern,18,Aux joyeux ecclésiastiques,170,36.3,0
+10456,KOENE,8,25-02-1997,Callahan Laura,537.4,8.12,1,Speedy Express,Königlich Essen,21,Sir Rodney's Scones,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",18,53.2,0.150000006
+10457,KOENE,2,25-02-1997,Fuller Andrew,1031.7,11.57,3,Federal Shipping,Königlich Essen,59,Raclette Courdavault,4,Dairy Products,01581,1,Eastern,28,Gai pâturage,63,78.2,0
+10458,SUPRD,7,26-02-1997,King Robert,174.9,147.06,1,Speedy Express,Suprêmes délices,26,Gumbär Gummibärchen,3,Confections,60179,2,Western,11,Heli Süßwaren GmbH & Co. KG,21,20.3,0
+10459,VICTE,4,27-02-1997,Peacock Margaret,273.2,25.09,1,Speedy Express,Victuailles en stock,7,Uncle Bob's Organic Dried Pears,7,Produce,20852,1,Eastern,3,Grandma Kelly's Homestead,50,26.5,0.050000001
+10460,FOLKO,8,28-02-1997,Callahan Laura,914.4,16.27,2,United Package,Folk och fä HB,68,Scottish Longbreads,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",77,41.3,0.25
+10461,LILAS,1,28-02-1997,Davolio Nancy,443.4,148.61,2,United Package,LILA-Supermercado,21,Sir Rodney's Scones,3,Confections,06897,1,Eastern,8,"Specialty Biscuits, Ltd.",26,39.6,0.25
+10462,CONSH,2,03-03-1997,Fuller Andrew,1838.2,6.17,2,United Package,Consolidated Holdings,13,Konbu,8,Seafood,01581,1,Eastern,6,Mayumi's,69,69.8,0
+10463,SUPRD,5,04-03-1997,Buchanan Steven,531,14.78,2,United Package,Suprêmes délices,19,Teatime Chocolate Biscuits,3,Confections,02903,1,Eastern,8,"Specialty Biscuits, Ltd.",26,30.7,0
+10464,FURIB,4,04-03-1997,Peacock Margaret,4277,89,3,Federal Shipping,Furia Bacalhau e Frutos do Mar,4,Chef Anton's Cajun Seasoning,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,238,73,0.200000003
+10465,VAFFE,1,05-03-1997,Davolio Nancy,2095.95,145.04,1,Speedy Express,Vaffeljernet,24,Guaraná Fantástica,1,Beverages,06897,1,Eastern,10,Refrescos Americanas LTDA,115,51.9,0
+10466,COMMI,4,06-03-1997,Peacock Margaret,413.4,11.93,3,Federal Shipping,Comércio Mineiro,11,Queso Cabrales,4,Dairy Products,20852,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',50,25.5,0
+10467,MAGAA,8,06-03-1997,Callahan Laura,2684,4.93,2,United Package,Magazzini Alimentari Riuniti,24,Guaraná Fantástica,1,Beverages,19428,3,Northern,10,Refrescos Americanas LTDA,125,80.6,0
+10468,KOENE,3,07-03-1997,Leverling Janet,655.7,44.12,2,United Package,Königlich Essen,30,Nord-Ost Matjeshering,8,Seafood,30346,4,Southern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,61,24,0
+10469,WHITC,1,10-03-1997,Davolio Nancy,1584,60.18,1,Speedy Express,White Clover Markets,2,Chang,1,Beverages,06897,1,Eastern,1,Exotic Liquids,36,44,0.150000006
+10470,BONAP,4,11-03-1997,Peacock Margaret,3891,64.56,3,Federal Shipping,Bon app',18,Carnarvon Tigers,8,Seafood,20852,1,Eastern,7,"Pavlova, Ltd.",145,145.7,0
+10471,BSBEV,2,11-03-1997,Fuller Andrew,1687.9,45.59,2,United Package,B's Beverages,7,Uncle Bob's Organic Dried Pears,7,Produce,01581,1,Eastern,3,Grandma Kelly's Homestead,76,61.4,0
+10472,SEVES,8,12-03-1997,Callahan Laura,234.3,4.2,1,Speedy Express,Seven Seas Imports,24,Guaraná Fantástica,1,Beverages,19428,3,Northern,10,Refrescos Americanas LTDA,25,16.2,0.050000001
+10473,ISLAT,1,13-03-1997,Davolio Nancy,2050.85,16.37,3,Federal Shipping,Island Trading,33,Geitost,4,Dairy Products,06897,1,Eastern,15,Norske Meierier,128,47.9,0
+10474,PERIC,5,13-03-1997,Buchanan Steven,156,83.49,1,Speedy Express,Pericles Comidas clásicas,14,Tofu,7,Produce,02903,1,Eastern,6,Mayumi's,22,12,0
+10475,SUPRD,9,14-03-1997,Dodsworth Anne,713.3,68.52,3,Federal Shipping,Suprêmes délices,31,Gorgonzola Telino,4,Dairy Products,03049,3,Northern,14,Formaggi Fortini s.r.l.,71,18.5,0.150000006
+10476,HILAA,8,17-03-1997,Callahan Laura,1847.6,4.41,2,United Package,HILARION-Abastos,55,Pâté chinois,6,Meat/Poultry,19428,3,Northern,25,Ma Maison,69,112,0.050000001
+10477,PRINI,5,17-03-1997,Buchanan Steven,2718.8,13.02,3,Federal Shipping,Princesa Isabel Vinhos,1,Chai,1,Beverages,02903,1,Eastern,1,Exotic Liquids,118,137.9,0
+10478,VICTE,2,18-03-1997,Fuller Andrew,216,4.81,1,Speedy Express,Victuailles en stock,10,Ikura,8,Seafood,01581,1,Eastern,4,Tokyo Traders,15,26.4,0.050000001
+10479,RATTC,3,19-03-1997,Leverling Janet,235.2,708.95,2,United Package,Rattlesnake Canyon Grocery,38,Côte de Blaye,1,Beverages,30346,4,Southern,18,Aux joyeux ecclésiastiques,40,14.8,0
+10481,RICAR,8,20-03-1997,Callahan Laura,1125.05,64.33,1,Speedy Express,Ricardo Adocicados,49,Maxilaku,3,Confections,19428,3,Northern,23,Karkki Oy,77,44.6,0
+10482,LAZYK,1,21-03-1997,Davolio Nancy,1820.8,7.48,2,United Package,Lazy K Kountry Store,40,Boston Crab Meat,8,Seafood,06897,1,Eastern,19,New England Seafood Cannery,53,83.8,0
+10483,WHITC,7,24-03-1997,King Robert,1328,15.28,3,Federal Shipping,White Clover Markets,34,Sasquatch Ale,1,Beverages,60179,2,Western,16,Bigfoot Breweries,50,54.4,0.050000001
+10484,BSBEV,3,24-03-1997,Leverling Janet,1051.15,6.88,1,Speedy Express,B's Beverages,21,Sir Rodney's Scones,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",98,46,0
+10485,LINOD,4,25-03-1997,Peacock Margaret,230.4,64.45,3,Federal Shipping,LINO-Delicateses,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,24,19.2,0.100000001
+10486,HILAA,1,26-03-1997,Davolio Nancy,1249.1,30.53,2,United Package,HILARION-Abastos,11,Queso Cabrales,4,Dairy Products,06897,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',61,75.9,0
+10487,QUEEN,2,26-03-1997,Fuller Andrew,1770.35,71.07,1,Speedy Express,Queen Cozinha,19,Teatime Chocolate Biscuits,3,Confections,01581,1,Eastern,8,"Specialty Biscuits, Ltd.",137,38,0
+10488,FRANK,8,27-03-1997,Callahan Laura,182.35,4.93,3,Federal Shipping,Frankenversand,59,Raclette Courdavault,4,Dairy Products,19428,3,Northern,28,Gai pâturage,14,31.2,0
+10489,PICCO,6,28-03-1997,Suyama Michael,671.5,5.29,2,United Package,Piccolo und mehr,11,Queso Cabrales,4,Dairy Products,85014,2,Western,5,Cooperativa de Quesos 'Las Cabras',56,36.8,0.25
+10490,HILAA,7,31-03-1997,King Robert,495.95,210.19,3,Federal Shipping,HILARION-Abastos,59,Raclette Courdavault,4,Dairy Products,60179,2,Western,28,Gai pâturage,20,24.8,0
+10491,FURIB,8,31-03-1997,Callahan Laura,10495.6,16.96,3,Federal Shipping,Furia Bacalhau e Frutos do Mar,44,Gula Malacca,2,Condiments,19428,3,Northern,20,Leka Trading,148,307.6,0.150000006
+10492,BOTTM,3,01-04-1997,Leverling Janet,1472,62.89,2,United Package,Bottom-Dollar Markets,25,NuNuCa Nuß-Nougat-Creme,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,64,43.2,0.050000001
+10493,LAMAI,4,02-04-1997,Peacock Margaret,147,10.64,3,Federal Shipping,La maison d'Asie,65,Louisiana Fiery Hot Pepper Sauce,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,10,14.7,0.100000001
+10494,COMMI,4,02-04-1997,Peacock Margaret,703.9,65.99,2,United Package,Comércio Mineiro,56,Gnocchi di nonna Alice,5,Grains/Cereals,20852,1,Eastern,26,Pasta Buttini s.r.l.,65,21.6,0
+10495,LAUGB,3,03-04-1997,Leverling Janet,386.2,4.65,3,Federal Shipping,Laughing Bacchus Wine Cellars,23,Tunnbröd,5,Grains/Cereals,30346,4,Southern,9,PB Knäckebröd AB,27,65.1,0
+10496,TRADH,7,04-04-1997,King Robert,1759.6,46.77,2,United Package,Tradição Hipermercados,31,Gorgonzola Telino,4,Dairy Products,60179,2,Western,14,Formaggi Fortini s.r.l.,130,54.4,0.050000001
+10497,LEHMS,7,04-04-1997,King Robert,1272,36.21,2,United Package,Lehmanns Marktstand,56,Gnocchi di nonna Alice,5,Grains/Cereals,60179,2,Western,26,Pasta Buttini s.r.l.,46,67.2,0
+10498,HILAA,8,07-04-1997,Callahan Laura,924.85,29.75,2,United Package,HILARION-Abastos,24,Guaraná Fantástica,1,Beverages,19428,3,Northern,10,Refrescos Americanas LTDA,59,38.1,0
+10499,LILAS,4,08-04-1997,Peacock Margaret,1559.8,102.02,2,United Package,LILA-Supermercado,28,Rössle Sauerkraut,7,Produce,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,50,56,0
+10500,LAMAI,6,09-04-1997,Suyama Michael,501.95,42.68,2,United Package,La maison d'Asie,15,Genen Shouyu,2,Condiments,85014,2,Western,6,Mayumi's,33,30.7,0.050000001
+10501,BLAUS,9,09-04-1997,Dodsworth Anne,3163.2,8.85,2,United Package,Blauer See Delikatessen,54,Tourtière,6,Meat/Poultry,03049,3,Northern,25,Ma Maison,126,60.2,0
+10502,PERIC,2,10-04-1997,Fuller Andrew,305,69.32,3,Federal Shipping,Pericles Comidas clásicas,45,Rogede sild,8,Seafood,01581,1,Eastern,21,Lyngbysild,22,25.9,0
+10503,HUNGO,6,11-04-1997,Suyama Michael,895.9,16.74,1,Speedy Express,Hungry Owl All-Night Grocers,14,Tofu,7,Produce,85014,2,Western,6,Mayumi's,80,22.4,0
+10504,WHITC,4,11-04-1997,Peacock Margaret,675.7,59.13,3,Federal Shipping,White Clover Markets,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,35,59.2,0
+10505,MEREP,3,14-04-1997,Leverling Janet,912,7.13,2,United Package,Mère Paillarde,62,Tarte au sucre,3,Confections,30346,4,Southern,29,Forêts d'érables,30,30.4,0
+10506,KOENE,9,15-04-1997,Dodsworth Anne,278,21.19,3,Federal Shipping,Königlich Essen,25,NuNuCa Nuß-Nougat-Creme,3,Confections,03049,3,Northern,11,Heli Süßwaren GmbH & Co. KG,35,25.3,0.100000001
+10508,OTTIK,1,16-04-1997,Davolio Nancy,1380.6,4.99,1,Speedy Express,Ottilies Käseladen,13,Konbu,8,Seafood,06897,1,Eastern,6,Mayumi's,64,68.6,0
+10509,BLAUS,4,17-04-1997,Peacock Margaret,575,0.15,2,United Package,Blauer See Delikatessen,28,Rössle Sauerkraut,7,Produce,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,49,36.9,0
+10510,SAVEA,6,18-04-1997,Suyama Michael,1412,367.63,2,United Package,Save-a-lot Markets,29,Thüringer Rostbratwurst,6,Meat/Poultry,85014,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,45,65.6,0
+10511,BONAP,4,18-04-1997,Peacock Margaret,550.7,350.64,1,Speedy Express,Bon app',4,Chef Anton's Cajun Seasoning,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,20,61.1,0.150000006
+10512,FAMIA,7,21-04-1997,King Robert,149,3.53,3,Federal Shipping,Familia Arquibaldo,24,Guaraná Fantástica,1,Beverages,60179,2,Western,10,Refrescos Americanas LTDA,20,7.45,0.150000006
+10513,WANDK,7,22-04-1997,King Robert,816.3,105.65,1,Speedy Express,Die Wandernde Kuh,21,Sir Rodney's Scones,3,Confections,60179,2,Western,8,"Specialty Biscuits, Ltd.",57,56.3,0.200000003
+10514,ERNSH,3,22-04-1997,Leverling Janet,2048.5,789.95,2,United Package,Ernst Handel,20,Sir Rodney's Marmalade,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",90,44.3,0
+10515,QUICK,2,23-04-1997,Fuller Andrew,1388.5,204.47,3,Federal Shipping,QUICK-Stop,9,Mishi Kobe Niku,6,Meat/Poultry,01581,1,Eastern,4,Tokyo Traders,59,90.3,0.150000006
+10516,HUNGO,2,24-04-1997,Fuller Andrew,147.9,62.78,3,Federal Shipping,Hungry Owl All-Night Grocers,18,Carnarvon Tigers,8,Seafood,01581,1,Eastern,7,"Pavlova, Ltd.",3,49.3,0.100000001
+10517,NORTS,3,24-04-1997,Leverling Janet,461.8,32.07,2,United Package,North/South,52,Filo Mix,5,Grains/Cereals,30346,4,Southern,24,"G'day, Mate",32,29,0
+10518,TORTU,4,25-04-1997,Peacock Margaret,240,218.15,2,United Package,Tortuga Restaurante,24,Guaraná Fantástica,1,Beverages,20852,1,Eastern,10,Refrescos Americanas LTDA,20,24,0
+10519,CHOPS,6,28-04-1997,Suyama Michael,136.8,91.76,1,Speedy Express,Chop-suey Chinese,10,Ikura,8,Seafood,85014,2,Western,4,Tokyo Traders,3,45.6,0.050000001
+10520,SANTG,7,29-04-1997,King Robert,4735.34,13.37,3,Federal Shipping,Santé Gourmet,24,Guaraná Fantástica,1,Beverages,60179,2,Western,10,Refrescos Americanas LTDA,72,131.54,0
+10521,CACTU,8,29-04-1997,Callahan Laura,2999.55,17.22,3,Federal Shipping,Cactus Comidas para llevar,35,Steeleye Stout,1,Beverages,19428,3,Northern,16,Bigfoot Breweries,110,92,0
+10522,LEHMS,4,30-04-1997,Peacock Margaret,617.4,45.33,2,United Package,Lehmanns Marktstand,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,37,60,0.200000003
+10523,SEVES,7,01-05-1997,King Robert,2426.9,77.63,1,Speedy Express,Seven Seas Imports,17,Alice Mutton,6,Meat/Poultry,60179,2,Western,7,"Pavlova, Ltd.",105,70.5,0.100000001
+10524,BERGS,1,01-05-1997,Davolio Nancy,8623.45,244.79,2,United Package,Berglunds snabbköp,10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,233,193.4,0
+10525,BONAP,1,02-05-1997,Davolio Nancy,10588.05,11.06,1,Speedy Express,Bon app',36,Inlagd Sill,8,Seafood,06897,1,Eastern,17,Svensk Sjöföda AB,286,194.85,0
+10526,WARTH,4,05-05-1997,Peacock Margaret,2614.3,58.59,3,Federal Shipping,Wartian Herkku,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,125,86.15,0.150000006
+10527,QUICK,7,05-05-1997,King Robert,352,41.9,3,Federal Shipping,QUICK-Stop,4,Chef Anton's Cajun Seasoning,2,Condiments,60179,2,Western,2,New Orleans Cajun Delights,16,77,0.100000001
+10528,GREAL,6,06-05-1997,Suyama Michael,4150.05,3.35,2,United Package,Great Lakes Food Market,11,Queso Cabrales,4,Dairy Products,85014,2,Western,5,Cooperativa de Quesos 'Las Cabras',29,287.45,0
+10529,MAISD,5,07-05-1997,Buchanan Steven,2355.9,66.69,3,Federal Shipping,Maison Dewey,55,Pâté chinois,6,Meat/Poultry,02903,1,Eastern,25,Ma Maison,66,103,0
+10530,PICCO,3,08-05-1997,Leverling Janet,200,339.22,1,Speedy Express,Piccolo und mehr,17,Alice Mutton,6,Meat/Poultry,30346,4,Southern,7,"Pavlova, Ltd.",13,37.3,0
+10531,OCEAN,7,08-05-1997,King Robert,225.5,8.12,2,United Package,Océano Atlántico Ltda.,59,Raclette Courdavault,4,Dairy Products,60179,2,Western,28,Gai pâturage,19,40.15,0
+10532,EASTC,7,09-05-1997,King Robert,2657.2,74.46,1,Speedy Express,Eastern Connection,30,Nord-Ost Matjeshering,8,Seafood,60179,2,Western,13,Nord-Ost-Fisch Handelsgesellschaft mbH,109,102.29,0
+10533,FOLKO,8,12-05-1997,Callahan Laura,2715.5,188.04,2,United Package,Folk och fä HB,4,Chef Anton's Cajun Seasoning,2,Condiments,19428,3,Northern,2,New Orleans Cajun Delights,64,155.65,0.050000001
+10534,LEHMS,8,12-05-1997,Callahan Laura,3192.65,27.94,2,United Package,Lehmanns Marktstand,30,Nord-Ost Matjeshering,8,Seafood,19428,3,Northern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,87,110.34,0
+10535,ANTON,4,13-05-1997,Peacock Margaret,845.9,15.64,2,United Package,Antonio Moreno Taquería,11,Queso Cabrales,4,Dairy Products,20852,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',45,37.4,0.100000001
+10536,LEHMS,3,14-05-1997,Leverling Janet,1343.7,58.88,2,United Package,Lehmanns Marktstand,12,Queso Manchego La Pastora,4,Dairy Products,30346,4,Southern,5,Cooperativa de Quesos 'Las Cabras',48,62,0.25
+10537,RICSU,1,14-05-1997,Davolio Nancy,1669.8,78.85,1,Speedy Express,Richter Supermarkt,31,Gorgonzola Telino,4,Dairy Products,06897,1,Eastern,14,Formaggi Fortini s.r.l.,80,41,0
+10539,BSBEV,6,16-05-1997,Suyama Michael,946,12.36,2,United Package,B's Beverages,13,Konbu,8,Seafood,85014,2,Western,6,Mayumi's,44,72.5,0
+10540,QUICK,3,19-05-1997,Leverling Janet,4180,1007.64,2,United Package,QUICK-Stop,3,Aniseed Syrup,2,Condiments,30346,4,Southern,1,Exotic Liquids,135,131.5,0
+10541,HANAR,2,19-05-1997,Fuller Andrew,110,68.65,1,Speedy Express,Hanari Carnes,24,Guaraná Fantástica,1,Beverages,01581,1,Eastern,10,Refrescos Americanas LTDA,2,55,0.100000001
+10542,KOENE,1,20-05-1997,Davolio Nancy,796.35,10.95,3,Federal Shipping,Königlich Essen,11,Queso Cabrales,4,Dairy Products,06897,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',39,42.89,0.050000001
+10543,LILAS,8,21-05-1997,Callahan Laura,2295.1,48.17,1,Speedy Express,LILA-Supermercado,12,Queso Manchego La Pastora,4,Dairy Products,19428,3,Northern,5,Cooperativa de Quesos 'Las Cabras',98,71.8,0.150000006
+10544,LONEP,4,21-05-1997,Peacock Margaret,517,24.91,2,United Package,Lonesome Pine Restaurant,28,Rössle Sauerkraut,7,Produce,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,30,51.74,0
+10545,LAZYK,8,22-05-1997,Callahan Laura,2156.1,11.92,1,Speedy Express,Lazy K Kountry Store,11,Queso Cabrales,4,Dairy Products,19428,3,Northern,5,Cooperativa de Quesos 'Las Cabras',80,113.9,0
+10546,VICTE,1,23-05-1997,Davolio Nancy,2084.5,194.72,2,United Package,Victuailles en stock,7,Uncle Bob's Organic Dried Pears,7,Produce,06897,1,Eastern,3,Grandma Kelly's Homestead,100,87,0
+10547,SEVES,3,23-05-1997,Leverling Janet,1823.8,178.43,1,Speedy Express,Seven Seas Imports,32,Mascarpone Fabioli,4,Dairy Products,30346,4,Southern,14,Formaggi Fortini s.r.l.,86,128.55,0.150000006
+10548,TOMSP,3,26-05-1997,Leverling Janet,355.5,1.43,3,Federal Shipping,Toms Spezialitäten,34,Sasquatch Ale,1,Beverages,30346,4,Southern,16,Bigfoot Breweries,44,38.5,0.25
+10549,QUICK,5,27-05-1997,Buchanan Steven,10191.7,171.24,3,Federal Shipping,QUICK-Stop,31,Gorgonzola Telino,4,Dairy Products,02903,1,Eastern,14,Formaggi Fortini s.r.l.,165,317.23,0.150000006
+10550,GODOS,7,28-05-1997,King Robert,2162.4,4.32,1,Speedy Express,Godos Cocina Típica,17,Alice Mutton,6,Meat/Poultry,60179,2,Western,7,"Pavlova, Ltd.",84,310.55,0.100000001
+10551,FURIB,4,28-05-1997,Peacock Margaret,493.7,72.95,3,Federal Shipping,Furia Bacalhau e Frutos do Mar,16,Pavlova,3,Confections,20852,1,Eastern,7,"Pavlova, Ltd.",39,28.45,0.150000006
+10552,HILAA,2,29-05-1997,Fuller Andrew,1769.7,83.22,2,United Package,HILARION-Abastos,69,Gudbrandsdalsost,4,Dairy Products,01581,1,Eastern,15,Norske Meierier,100,47,0
+10553,WARTH,2,30-05-1997,Fuller Andrew,417.2,149.49,1,Speedy Express,Wartian Herkku,11,Queso Cabrales,4,Dairy Products,01581,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',14,59.6,0
+10554,OTTIK,4,30-05-1997,Peacock Margaret,210,120.97,2,United Package,Ottilies Käseladen,16,Pavlova,3,Confections,20852,1,Eastern,7,"Pavlova, Ltd.",10,21,0.050000001
+10555,SAVEA,6,02-06-1997,Suyama Michael,2812,252.49,3,Federal Shipping,Save-a-lot Markets,14,Tofu,7,Produce,85014,2,Western,6,Mayumi's,80,97.3,0.200000003
+10557,LEHMS,9,03-06-1997,Dodsworth Anne,274.85,96.72,2,United Package,Lehmanns Marktstand,64,Wimmers gute Semmelknödel,5,Grains/Cereals,03049,3,Northern,12,Plutzer Lebensmittelgroßmärkte AG,24,23.65,0
+10558,AROUT,1,04-06-1997,Davolio Nancy,4181.05,72.97,1,Speedy Express,Around the Horn,47,Zaanse koeken,3,Confections,06897,1,Eastern,22,Zaanse Snoepfabriek,203,75,0
+10559,BLONP,6,05-06-1997,Suyama Michael,748.7,8.05,3,Federal Shipping,Blondesddsl père et fils,41,Jack's New England Clam Chowder,8,Seafood,85014,2,Western,19,New England Seafood Cannery,34,86.7,0.050000001
+10560,FRANK,8,06-06-1997,Callahan Laura,1835.7,36.65,3,Federal Shipping,Frankenversand,30,Nord-Ost Matjeshering,8,Seafood,19428,3,Northern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,100,54.9,0
+10561,FOLKO,2,06-06-1997,Fuller Andrew,880.5,242.21,1,Speedy Express,Folk och fä HB,44,Gula Malacca,2,Condiments,01581,1,Eastern,20,Leka Trading,48,43.75,0
+10562,REGGC,1,09-06-1997,Davolio Nancy,1546.3,22.95,2,United Package,Reggiani Caseifici,33,Geitost,4,Dairy Products,06897,1,Eastern,15,Norske Meierier,89,89.95,0.100000001
+10563,RICAR,2,10-06-1997,Fuller Andrew,1819.3,60.43,3,Federal Shipping,Ricardo Adocicados,36,Inlagd Sill,8,Seafood,01581,1,Eastern,17,Svensk Sjöföda AB,80,88.75,0
+10564,RATTC,4,10-06-1997,Peacock Margaret,3679.5,13.75,3,Federal Shipping,Rattlesnake Canyon Grocery,17,Alice Mutton,6,Meat/Poultry,20852,1,Eastern,7,"Pavlova, Ltd.",143,127.95,0.050000001
+10565,MEREP,8,11-06-1997,Callahan Laura,1152.5,7.15,2,United Package,Mère Paillarde,24,Guaraná Fantástica,1,Beverages,19428,3,Northern,10,Refrescos Americanas LTDA,50,41,0.100000001
+10566,BLONP,9,12-06-1997,Dodsworth Anne,2142.9,88.4,2,United Package,Blondesddsl père et fils,11,Queso Cabrales,4,Dairy Products,03049,3,Northern,5,Cooperativa de Quesos 'Las Cabras',96,117.3,0.150000006
+10567,HUNGO,1,12-06-1997,Davolio Nancy,547.7,33.97,1,Speedy Express,Hungry Owl All-Night Grocers,31,Gorgonzola Telino,4,Dairy Products,06897,1,Eastern,14,Formaggi Fortini s.r.l.,30,33.65,0.200000003
+10568,GALED,3,13-06-1997,Leverling Janet,1257.05,6.54,1,Speedy Express,Galería del gastrónomo,10,Ikura,8,Seafood,30346,4,Southern,4,Tokyo Traders,35,75.19,0
+10569,RATTC,5,16-06-1997,Buchanan Steven,2844.5,58.98,2,United Package,Rattlesnake Canyon Grocery,31,Gorgonzola Telino,4,Dairy Products,02903,1,Eastern,14,Formaggi Fortini s.r.l.,60,72.45,0.200000003
+10570,MEREP,3,17-06-1997,Leverling Janet,542.8,188.99,1,Speedy Express,Mère Paillarde,11,Queso Cabrales,4,Dairy Products,30346,4,Southern,5,Cooperativa de Quesos 'Las Cabras',30,51.8,0.050000001
+10571,ERNSH,8,17-06-1997,Callahan Laura,965,26.06,2,United Package,Ernst Handel,14,Tofu,7,Produce,19428,3,Northern,6,Mayumi's,95,26,0.150000006
+10572,BERGS,3,18-06-1997,Leverling Janet,1298.85,116.43,3,Federal Shipping,Berglunds snabbköp,16,Pavlova,3,Confections,30346,4,Southern,7,"Pavlova, Ltd.",47,75.5,0.100000001
+10573,ANTON,7,19-06-1997,King Robert,710.8,84.84,2,United Package,Antonio Moreno Taquería,17,Alice Mutton,6,Meat/Poultry,60179,2,Western,7,"Pavlova, Ltd.",43,37.75,0
+10574,TRAIH,4,19-06-1997,Peacock Margaret,2039.7,37.6,1,Speedy Express,Trail's Head Gourmet Provisioners,33,Geitost,4,Dairy Products,20852,1,Eastern,15,Norske Meierier,63,101.5,0
+10575,MORGK,5,20-06-1997,Buchanan Steven,3108.6,127.34,1,Speedy Express,Morgenstern Gesundkost,59,Raclette Courdavault,4,Dairy Products,02903,1,Eastern,28,Gai pâturage,103,120.5,0
+10576,TORTU,3,23-06-1997,Leverling Janet,155,18.56,3,Federal Shipping,Tortuga Restaurante,1,Chai,1,Beverages,30346,4,Southern,1,Exotic Liquids,5,31,0
+10577,TRAIH,9,23-06-1997,Dodsworth Anne,977.3,25.41,1,Speedy Express,Trail's Head Gourmet Provisioners,39,Chartreuse verte,1,Beverages,03049,3,Northern,18,Aux joyeux ecclésiastiques,65,30.5,0
+10578,BSBEV,4,24-06-1997,Peacock Margaret,2594.9,29.6,3,Federal Shipping,B's Beverages,35,Steeleye Stout,1,Beverages,20852,1,Eastern,16,Bigfoot Breweries,75,59,0
+10579,LETSS,1,25-06-1997,Davolio Nancy,647.45,13.73,3,Federal Shipping,Let's Stop N Shop,15,Genen Shouyu,2,Condiments,06897,1,Eastern,6,Mayumi's,39,37.25,0
+10580,OTTIK,4,26-06-1997,Peacock Margaret,1565.35,75.89,2,United Package,Ottilies Käseladen,14,Tofu,7,Produce,20852,1,Eastern,6,Mayumi's,87,75.6,0.050000001
+10583,WARTH,2,30-06-1997,Fuller Andrew,2147.4,7.28,1,Speedy Express,Wartian Herkku,29,Thüringer Rostbratwurst,6,Meat/Poultry,01581,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,58,151.7,0
+10584,BLONP,4,30-06-1997,Peacock Margaret,838.45,59.14,3,Federal Shipping,Blondesddsl père et fils,31,Gorgonzola Telino,4,Dairy Products,20852,1,Eastern,14,Formaggi Fortini s.r.l.,51,49.95,0.050000001
+10585,WELLI,7,01-07-1997,King Robert,569,13.41,2,United Package,Wellington Importadora,47,Zaanse koeken,3,Confections,60179,2,Western,22,Zaanse Snoepfabriek,48,38.75,0
+10586,REGGC,9,02-07-1997,Dodsworth Anne,477,0.48,3,Federal Shipping,Reggiani Caseifici,52,Filo Mix,5,Grains/Cereals,03049,3,Northern,24,"G'day, Mate",26,37.5,0.150000006
+10587,QUEDE,1,02-07-1997,Davolio Nancy,317.75,62.52,2,United Package,Que Delícia,26,Gumbär Gummibärchen,3,Confections,06897,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,31,23.25,0
+10588,QUICK,2,03-07-1997,Fuller Andrew,1066.95,194.67,3,Federal Shipping,QUICK-Stop,18,Carnarvon Tigers,8,Seafood,01581,1,Eastern,7,"Pavlova, Ltd.",54,53.95,0.200000003
+10589,GREAL,8,04-07-1997,Callahan Laura,2413.6,4.42,2,United Package,Great Lakes Food Market,35,Steeleye Stout,1,Beverages,19428,3,Northern,16,Bigfoot Breweries,44,193.79,0
+10590,MEREP,4,07-07-1997,Peacock Margaret,624.95,44.77,1,Speedy Express,Mère Paillarde,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,50,12.5,0
+10591,VAFFE,1,07-07-1997,Davolio Nancy,142.5,55.92,1,Speedy Express,Vaffeljernet,3,Aniseed Syrup,2,Condiments,06897,1,Eastern,1,Exotic Liquids,15,9.5,0
+10592,LEHMS,3,08-07-1997,Leverling Janet,27.84999999,32.1,1,Speedy Express,Lehmanns Marktstand,15,Genen Shouyu,2,Condiments,30346,4,Southern,6,Mayumi's,4,7,0.050000001
+10593,LEHMS,7,09-07-1997,King Robert,807.38,174.2,1,Speedy Express,Lehmanns Marktstand,20,Sir Rodney's Marmalade,3,Confections,60179,2,Western,8,"Specialty Biscuits, Ltd.",46,62.23,0.200000003
+10594,OLDWO,3,09-07-1997,Leverling Janet,3899.6,5.24,3,Federal Shipping,Old World Delicatessen,52,Filo Mix,5,Grains/Cereals,30346,4,Southern,24,"G'day, Mate",140,76.5,0
+10595,ERNSH,2,10-07-1997,Fuller Andrew,72,96.78,2,United Package,Ernst Handel,35,Steeleye Stout,1,Beverages,01581,1,Eastern,16,Bigfoot Breweries,4,18,0.25
+10596,WHITC,8,11-07-1997,Callahan Laura,1139.95,16.34,3,Federal Shipping,White Clover Markets,56,Gnocchi di nonna Alice,5,Grains/Cereals,19428,3,Northern,26,Pasta Buttini s.r.l.,80,31,0.200000003
+10597,PICCO,7,11-07-1997,King Robert,812.5,35.12,1,Speedy Express,Piccolo und mehr,24,Guaraná Fantástica,1,Beverages,60179,2,Western,10,Refrescos Americanas LTDA,74,47.45,0.200000003
+10598,RATTC,1,14-07-1997,Davolio Nancy,543.55,44.42,1,Speedy Express,Rattlesnake Canyon Grocery,27,Schoggi Schokolade,3,Confections,06897,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,30,46.73,0
+10599,BSBEV,6,15-07-1997,Suyama Michael,2492.4,29.98,2,United Package,B's Beverages,62,Tarte au sucre,3,Confections,85014,2,Western,29,Forêts d'érables,45,135,0
+10600,HUNGC,4,16-07-1997,Peacock Margaret,565.5,45.13,2,United Package,Hungry Coyote Import Store,54,Tourtière,6,Meat/Poultry,20852,1,Eastern,25,Ma Maison,54,20.25,0
+10601,HILAA,7,16-07-1997,King Robert,6299.25,58.3,1,Speedy Express,HILARION-Abastos,13,Konbu,8,Seafood,60179,2,Western,6,Mayumi's,215,82.5,0
+10603,SAVEA,8,18-07-1997,Callahan Laura,799.7,48.77,3,Federal Shipping,Save-a-lot Markets,22,Gustaf's Knäckebröd,5,Grains/Cereals,19428,3,Northern,9,PB Knäckebröd AB,67,45.05,0
+10604,FURIB,1,18-07-1997,Davolio Nancy,2388.5,7.46,3,Federal Shipping,Furia Bacalhau e Frutos do Mar,48,Chocolade,3,Confections,06897,1,Eastern,22,Zaanse Snoepfabriek,59,65.4,0.100000001
+10605,MEREP,1,21-07-1997,Davolio Nancy,493,379.13,3,Federal Shipping,Mère Paillarde,16,Pavlova,3,Confections,06897,1,Eastern,7,"Pavlova, Ltd.",10,49.3,0.050000001
+10606,TRADH,4,22-07-1997,Peacock Margaret,479.8,79.4,1,Speedy Express,Tradição Hipermercados,4,Chef Anton's Cajun Seasoning,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,34,22.45,0.200000003
+10607,SAVEA,5,22-07-1997,Buchanan Steven,2285,200.24,1,Speedy Express,Save-a-lot Markets,7,Uncle Bob's Organic Dried Pears,7,Produce,02903,1,Eastern,3,Grandma Kelly's Homestead,95,61,0
+10608,TOMSP,4,23-07-1997,Peacock Margaret,1507.95,27.79,2,United Package,Toms Spezialitäten,56,Gnocchi di nonna Alice,5,Grains/Cereals,20852,1,Eastern,26,Pasta Buttini s.r.l.,73,41,0
+10609,DUMON,7,24-07-1997,King Robert,256.3,1.85,1,Speedy Express,Du monde entier,1,Chai,1,Beverages,60179,2,Western,1,Exotic Liquids,16,30.75,0
+10610,LAMAI,8,25-07-1997,Callahan Laura,4325.8,26.78,2,United Package,La maison d'Asie,36,Inlagd Sill,8,Seafood,19428,3,Northern,17,Svensk Sjöföda AB,135,127.95,0.25
+10611,WOLZA,6,25-07-1997,Suyama Michael,1412.4,80.65,3,Federal Shipping,Wolski  Zajazd,1,Chai,1,Beverages,85014,2,Western,1,Exotic Liquids,50,95.3,0
+10612,SAVEA,1,28-07-1997,Davolio Nancy,6475.4,544.08,1,Speedy Express,Save-a-lot Markets,10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,213,124.7,0
+10613,HILAA,4,29-07-1997,Peacock Margaret,1064,8.11,2,United Package,HILARION-Abastos,13,Konbu,8,Seafood,20852,1,Eastern,6,Mayumi's,28,38,0.100000001
+10614,BLAUS,8,29-07-1997,Callahan Laura,424,1.93,2,United Package,Blauer See Delikatessen,11,Queso Cabrales,4,Dairy Products,19428,3,Northern,5,Cooperativa de Quesos 'Las Cabras',19,59,0
+10615,WILMK,2,30-07-1997,Fuller Andrew,398.75,0.75,1,Speedy Express,Wilman Kala,55,Pâté chinois,6,Meat/Poultry,01581,1,Eastern,25,Ma Maison,21,19,0
+10616,GREAL,1,31-07-1997,Davolio Nancy,808,116.53,2,United Package,Great Lakes Food Market,38,Côte de Blaye,1,Beverages,06897,1,Eastern,18,Aux joyeux ecclésiastiques,31,71,0.050000001
+10617,GREAL,4,31-07-1997,Peacock Margaret,6375,18.53,2,United Package,Great Lakes Food Market,59,Raclette Courdavault,4,Dairy Products,20852,1,Eastern,28,Gai pâturage,263,122,0.150000006
+10618,MEREP,1,01-08-1997,Davolio Nancy,357.9,154.68,2,United Package,Mère Paillarde,6,Grandma's Boysenberry Spread,2,Condiments,06897,1,Eastern,3,Grandma Kelly's Homestead,48,13.75,0
+10619,MEREP,3,04-08-1997,Leverling Janet,464,91.05,3,Federal Shipping,Mère Paillarde,21,Sir Rodney's Scones,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",27,49,0
+10620,LAUGB,2,05-08-1997,Fuller Andrew,120,0.94,3,Federal Shipping,Laughing Bacchus Wine Cellars,24,Guaraná Fantástica,1,Beverages,01581,1,Eastern,10,Refrescos Americanas LTDA,5,24,0
+10621,ISLAT,4,05-08-1997,Peacock Margaret,5031.85,23.73,2,United Package,Island Trading,19,Teatime Chocolate Biscuits,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",59,338,0
+10622,RICAR,4,06-08-1997,Peacock Margaret,1649.85,50.97,2,United Package,Ricardo Adocicados,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,30,55,0
+10623,FRANK,8,07-08-1997,Callahan Laura,2697.5,97.18,1,Speedy Express,Frankenversand,14,Tofu,7,Produce,19428,3,Northern,6,Mayumi's,105,75.5,0
+10624,THECR,4,07-08-1997,Peacock Margaret,1260,94.8,3,Federal Shipping,The Cracker Box,28,Rössle Sauerkraut,7,Produce,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,82,31,0
+10625,ANATR,3,08-08-1997,Leverling Janet,57.5,43.9,3,Federal Shipping,Ana Trujillo Emparedados y helados,14,Tofu,7,Produce,30346,4,Southern,6,Mayumi's,10,11.5,0
+10626,BERGS,1,11-08-1997,Davolio Nancy,758.5,138.69,2,United Package,Berglunds snabbköp,53,Perth Pasties,6,Meat/Poultry,06897,1,Eastern,24,"G'day, Mate",50,54.7,0
+10627,SAVEA,8,11-08-1997,Callahan Laura,604.8,107.46,3,Federal Shipping,Save-a-lot Markets,62,Tarte au sucre,3,Confections,19428,3,Northern,29,Forêts d'érables,38,31.5,0
+10628,BLONP,4,12-08-1997,Peacock Margaret,1429.45,30.36,2,United Package,Blondesddsl père et fils,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,94,64.95,0
+10629,GODOS,4,12-08-1997,Peacock Margaret,1393.24,85.46,2,United Package,Godos Cocina Típica,29,Thüringer Rostbratwurst,6,Meat/Poultry,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,26,188.84,0
+10630,KOENE,1,13-08-1997,Davolio Nancy,479.75,32.35,1,Speedy Express,Königlich Essen,55,Pâté chinois,6,Meat/Poultry,06897,1,Eastern,25,Ma Maison,18,71.25,0.050000001
+10631,LAMAI,8,14-08-1997,Callahan Laura,1503.6,0.87,2,United Package,La maison d'Asie,75,Rhönbräu Klosterbier,1,Beverages,19428,3,Northern,12,Plutzer Lebensmittelgroßmärkte AG,52,88.3,0.100000001
+10632,WANDK,8,14-08-1997,Callahan Laura,1264.35,41.38,3,Federal Shipping,Die Wandernde Kuh,2,Chang,1,Beverages,19428,3,Northern,1,Exotic Liquids,50,64.3,0.050000001
+10633,ERNSH,7,15-08-1997,King Robert,450,477.9,3,Federal Shipping,Ernst Handel,12,Queso Manchego La Pastora,4,Dairy Products,60179,2,Western,5,Cooperativa de Quesos 'Las Cabras',25,18,0.150000006
+10634,FOLIG,4,15-08-1997,Peacock Margaret,2775.05,487.38,3,Federal Shipping,Folies gourmandes,7,Uncle Bob's Organic Dried Pears,7,Produce,20852,1,Eastern,3,Grandma Kelly's Homestead,29,157.04,0
+10635,MAGAA,8,18-08-1997,Callahan Laura,917.95,47.46,2,United Package,Magazzini Alimentari Riuniti,4,Chef Anton's Cajun Seasoning,2,Condiments,19428,3,Northern,2,New Orleans Cajun Delights,47,42,0.100000001
+10636,WARTH,4,19-08-1997,Peacock Margaret,61.9,1.15,1,Speedy Express,Wartian Herkku,4,Chef Anton's Cajun Seasoning,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,8,7.75,0
+10637,QUEEN,6,19-08-1997,Suyama Michael,619.9,201.29,1,Speedy Express,Queen Cozinha,11,Queso Cabrales,4,Dairy Products,85014,2,Western,5,Cooperativa de Quesos 'Las Cabras',50,21.5,0
+10638,LINOD,3,20-08-1997,Leverling Janet,6482.45,158.44,3,Federal Shipping,LINO-Delicateses,45,Rogede sild,8,Seafood,30346,4,Southern,21,Lyngbysild,164,124.53,0
+10639,SANTG,7,20-08-1997,King Robert,4985.5,38.64,3,Federal Shipping,Santé Gourmet,18,Carnarvon Tigers,8,Seafood,60179,2,Western,7,"Pavlova, Ltd.",102,153.25,0
+10640,WANDK,4,21-08-1997,Peacock Margaret,1380.05,23.55,3,Federal Shipping,Die Wandernde Kuh,69,Gudbrandsdalsost,4,Dairy Products,20852,1,Eastern,15,Norske Meierier,65,64.35,0.25
+10641,HILAA,4,22-08-1997,Peacock Margaret,629.5,179.61,1,Speedy Express,HILARION-Abastos,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,31,35.25,0
+10642,SIMOB,7,22-08-1997,King Robert,2896.15,41.89,1,Speedy Express,Simons bistro,21,Sir Rodney's Scones,3,Confections,60179,2,Western,8,"Specialty Biscuits, Ltd.",95,75.25,0.200000003
+10643,ALFKI,6,25-08-1997,Suyama Michael,2720.05,29.46,1,Speedy Express,Alfreds Futterkiste,28,Rössle Sauerkraut,7,Produce,85014,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,101,65.35,0.25
+10644,WELLI,3,25-08-1997,Leverling Janet,500,0.14,3,Federal Shipping,Wellington Importadora,18,Carnarvon Tigers,8,Seafood,30346,4,Southern,7,"Pavlova, Ltd.",8,62.5,0.100000001
+10645,HANAR,4,26-08-1997,Peacock Margaret,944.5,12.41,1,Speedy Express,Hanari Carnes,18,Carnarvon Tigers,8,Seafood,20852,1,Eastern,7,"Pavlova, Ltd.",35,51,0
+10646,HUNGO,9,27-08-1997,Dodsworth Anne,2054,142.33,2,United Package,Hungry Owl All-Night Grocers,1,Chai,1,Beverages,03049,3,Northern,1,Exotic Liquids,110,37.4,0.25
+10647,QUEDE,4,27-08-1997,Peacock Margaret,869.6,45.54,3,Federal Shipping,Que Delícia,19,Teatime Chocolate Biscuits,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",50,38.5,0
+10648,RICAR,5,28-08-1997,Buchanan Steven,1085.25,14.25,1,Speedy Express,Ricardo Adocicados,22,Gustaf's Knäckebröd,5,Grains/Cereals,02903,1,Eastern,9,PB Knäckebröd AB,38,75.6,0
+10649,MAISD,5,28-08-1997,Buchanan Steven,1421.8,6.2,2,United Package,Maison Dewey,28,Rössle Sauerkraut,7,Produce,02903,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,45,120.5,0
+10650,FAMIA,5,29-08-1997,Buchanan Steven,1535,176.81,1,Speedy Express,Familia Arquibaldo,30,Nord-Ost Matjeshering,8,Seafood,02903,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,35,81.5,0
+10651,WANDK,8,01-09-1997,Callahan Laura,1927,20.6,3,Federal Shipping,Die Wandernde Kuh,19,Teatime Chocolate Biscuits,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",98,83.5,0.25
+10652,GOURL,4,01-09-1997,Peacock Margaret,636,7.14,2,United Package,Gourmet Lanchonetes,30,Nord-Ost Matjeshering,8,Seafood,20852,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,50,27.2,0.25
+10653,FRANK,1,02-09-1997,Davolio Nancy,382.35,93.25,2,United Package,Frankenversand,16,Pavlova,3,Confections,06897,1,Eastern,7,"Pavlova, Ltd.",30,25.5,0.100000001
+10654,BERGS,5,02-09-1997,Buchanan Steven,1434,55.26,3,Federal Shipping,Berglunds snabbköp,4,Chef Anton's Cajun Seasoning,2,Condiments,02903,1,Eastern,2,New Orleans Cajun Delights,35,80.4,0.100000001
+10655,REGGC,1,03-09-1997,Davolio Nancy,1820.15,4.41,3,Federal Shipping,Reggiani Caseifici,41,Jack's New England Clam Chowder,8,Seafood,06897,1,Eastern,19,New England Seafood Cannery,85,66.14,0.200000003
+10656,GREAL,6,04-09-1997,Suyama Michael,529.9,57.15,2,United Package,Great Lakes Food Market,14,Tofu,7,Produce,85014,2,Western,6,Mayumi's,32,30.2,0.100000001
+10657,SAVEA,2,04-09-1997,Fuller Andrew,331.53,352.69,2,United Package,Save-a-lot Markets,15,Genen Shouyu,2,Condiments,01581,1,Eastern,6,Mayumi's,22,39.89,0
+10658,QUICK,4,05-09-1997,Peacock Margaret,1203.3,364.15,1,Speedy Express,QUICK-Stop,21,Sir Rodney's Scones,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",50,51.45,0
+10659,QUEEN,7,05-09-1997,King Robert,668.4,105.81,1,Speedy Express,Queen Cozinha,31,Gorgonzola Telino,4,Dairy Products,60179,2,Western,14,Formaggi Fortini s.r.l.,38,47.45,0.050000001
+10660,HUNGC,8,08-09-1997,Callahan Laura,192.8,111.29,2,United Package,Hungry Coyote Import Store,20,Sir Rodney's Marmalade,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",20,9.65,0
+10661,HUNGO,7,09-09-1997,King Robert,671.05,17.55,1,Speedy Express,Hungry Owl All-Night Grocers,39,Chartreuse verte,1,Beverages,60179,2,Western,18,Aux joyeux ecclésiastiques,37,52.2,0.200000003
+10662,LONEP,3,09-09-1997,Leverling Janet,4371.6,1.28,2,United Package,Lonesome Pine Restaurant,68,Scottish Longbreads,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",204,118.65,0
+10663,BONAP,2,10-09-1997,Fuller Andrew,4667.85,113.15,1,Speedy Express,Bon app',40,Boston Crab Meat,8,Seafood,01581,1,Eastern,19,New England Seafood Cannery,255,75.4,0.050000001
+10664,FURIB,1,10-09-1997,Davolio Nancy,1291.45,1.27,2,United Package,Furia Bacalhau e Frutos do Mar,10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,84,45.9,0.150000006
+10666,RICSU,7,12-09-1997,King Robert,702.85,232.42,3,Federal Shipping,Richter Supermarkt,29,Thüringer Rostbratwurst,6,Meat/Poultry,60179,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,52,31.25,0
+10667,ERNSH,7,12-09-1997,King Robert,125,78.09,2,United Package,Ernst Handel,69,Gudbrandsdalsost,4,Dairy Products,60179,2,Western,15,Norske Meierier,10,12.5,0.200000003
+10668,WANDK,1,15-09-1997,Davolio Nancy,2031.85,47.22,2,United Package,Die Wandernde Kuh,31,Gorgonzola Telino,4,Dairy Products,06897,1,Eastern,14,Formaggi Fortini s.r.l.,80,85.4,0.100000001
+10669,SIMOB,2,15-09-1997,Fuller Andrew,1515.3,24.39,3,Federal Shipping,Simons bistro,36,Inlagd Sill,8,Seafood,01581,1,Eastern,17,Svensk Sjöföda AB,51,90.05,0
+10670,FRANK,4,16-09-1997,Peacock Margaret,4666.94,203.48,2,United Package,Frankenversand,23,Tunnbröd,5,Grains/Cereals,20852,1,Eastern,9,PB Knäckebröd AB,46,144.84,0
+10671,FRANR,1,17-09-1997,Davolio Nancy,1920.6,30.34,1,Speedy Express,France restauration,16,Pavlova,3,Confections,06897,1,Eastern,7,"Pavlova, Ltd.",59,57.5,0
+10672,BERGS,9,17-09-1997,Dodsworth Anne,694.45,95.75,2,United Package,Berglunds snabbköp,38,Côte de Blaye,1,Beverages,03049,3,Northern,18,Aux joyeux ecclésiastiques,27,69.75,0.100000001
+10673,WILMK,2,18-09-1997,Fuller Andrew,570,22.76,1,Speedy Express,Wilman Kala,16,Pavlova,3,Confections,01581,1,Eastern,7,"Pavlova, Ltd.",30,19,0
+10674,ISLAT,4,18-09-1997,Peacock Margaret,2301.75,0.9,1,Speedy Express,Island Trading,23,Tunnbröd,5,Grains/Cereals,20852,1,Eastern,9,PB Knäckebröd AB,192,57.75,0
+10675,FRANK,5,19-09-1997,Buchanan Steven,920.1,31.85,1,Speedy Express,Frankenversand,14,Tofu,7,Produce,02903,1,Eastern,6,Mayumi's,32,87.8,0
+10676,TORTU,2,22-09-1997,Fuller Andrew,4210.4,2.01,2,United Package,Tortuga Restaurante,10,Ikura,8,Seafood,01581,1,Eastern,4,Tokyo Traders,27,285,0
+10677,ANTON,1,22-09-1997,Davolio Nancy,412.35,4.03,1,Speedy Express,Antonio Moreno Taquería,26,Gumbär Gummibärchen,3,Confections,06897,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,15,77.45,0.150000006
+10678,SAVEA,7,23-09-1997,King Robert,45,388.98,2,United Package,Save-a-lot Markets,12,Queso Manchego La Pastora,4,Dairy Products,60179,2,Western,5,Cooperativa de Quesos 'Las Cabras',5,9,0
+10679,BLONP,8,23-09-1997,Callahan Laura,1423,27.94,2,United Package,Blondesddsl père et fils,59,Raclette Courdavault,4,Dairy Products,19428,3,Northern,28,Gai pâturage,70,69.3,0
+10680,OLDWO,1,24-09-1997,Davolio Nancy,534.85,26.61,2,United Package,Old World Delicatessen,16,Pavlova,3,Confections,06897,1,Eastern,7,"Pavlova, Ltd.",30,59.65,0.25
+10681,GREAL,3,25-09-1997,Leverling Janet,956.6,76.13,3,Federal Shipping,Great Lakes Food Market,19,Teatime Chocolate Biscuits,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",38,33.73,0.100000001
+10682,ANTON,3,25-09-1997,Leverling Janet,5256.5,36.13,3,Federal Shipping,Antonio Moreno Taquería,33,Geitost,4,Dairy Products,30346,4,Southern,15,Norske Meierier,280,57.6,0
+10683,DUMON,2,26-09-1997,Fuller Andrew,660,4.4,3,Federal Shipping,Du monde entier,52,Filo Mix,5,Grains/Cereals,01581,1,Eastern,24,"G'day, Mate",12,55,0
+10684,OTTIK,3,26-09-1997,Leverling Janet,1681.75,145.63,1,Speedy Express,Ottilies Käseladen,40,Boston Crab Meat,8,Seafood,30346,4,Southern,19,New England Seafood Cannery,110,43.95,0
+10685,GOURL,4,29-09-1997,Peacock Margaret,1326.8,33.75,3,Federal Shipping,Gourmet Lanchonetes,10,Ikura,8,Seafood,20852,1,Eastern,4,Tokyo Traders,70,52.45,0
+10686,PICCO,2,30-09-1997,Fuller Andrew,375.5,96.5,2,United Package,Piccolo und mehr,17,Alice Mutton,6,Meat/Poultry,01581,1,Eastern,7,"Pavlova, Ltd.",64,27.25,0.200000003
+10687,HUNGO,9,30-09-1997,Dodsworth Anne,63,296.43,1,Speedy Express,Hungry Owl All-Night Grocers,9,Mishi Kobe Niku,6,Meat/Poultry,03049,3,Northern,4,Tokyo Traders,9,7,0.25
+10688,VAFFE,4,01-10-1997,Peacock Margaret,1768,299.09,1,Speedy Express,Vaffeljernet,10,Ikura,8,Seafood,20852,1,Eastern,4,Tokyo Traders,90,61.9,0.100000001
+10689,BERGS,1,01-10-1997,Davolio Nancy,801.1,13.42,2,United Package,Berglunds snabbköp,1,Chai,1,Beverages,06897,1,Eastern,1,Exotic Liquids,39,50.15,0.25
+10690,HANAR,1,02-10-1997,Davolio Nancy,1638.25,15.8,1,Speedy Express,Hanari Carnes,56,Gnocchi di nonna Alice,5,Grains/Cereals,06897,1,Eastern,26,Pasta Buttini s.r.l.,45,70.23,0.25
+10691,QUICK,2,03-10-1997,Fuller Andrew,6201.4,810.05,2,United Package,QUICK-Stop,1,Chai,1,Beverages,01581,1,Eastern,1,Exotic Liquids,66,239.79,0
+10693,WHITC,3,06-10-1997,Leverling Janet,629.75,139.34,2,United Package,White Clover Markets,9,Mishi Kobe Niku,6,Meat/Poultry,30346,4,Southern,4,Tokyo Traders,35,18,0
+10694,QUICK,8,06-10-1997,Callahan Laura,1149.5,398.36,1,Speedy Express,QUICK-Stop,7,Uncle Bob's Organic Dried Pears,7,Produce,19428,3,Northern,3,Grandma Kelly's Homestead,50,51,0
+10695,WILMK,7,07-10-1997,King Robert,10164.8,16.72,2,United Package,Wilman Kala,8,Northwoods Cranberry Sauce,2,Condiments,60179,2,Western,3,Grandma Kelly's Homestead,182,256.54,0
+10696,WHITC,8,08-10-1997,Callahan Laura,2333.55,102.55,3,Federal Shipping,White Clover Markets,17,Alice Mutton,6,Meat/Poultry,19428,3,Northern,7,"Pavlova, Ltd.",111,155.45,0
+10697,LINOD,3,08-10-1997,Leverling Janet,4825,45.52,3,Federal Shipping,LINO-Delicateses,19,Teatime Chocolate Biscuits,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",165,100,0.25
+10698,ERNSH,4,09-10-1997,Peacock Margaret,642,272.47,1,Speedy Express,Ernst Handel,11,Queso Cabrales,4,Dairy Products,20852,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',34,82.5,0
+10699,MORGK,3,09-10-1997,Leverling Janet,996,0.58,3,Federal Shipping,Morgenstern Gesundkost,47,Zaanse koeken,3,Confections,30346,4,Southern,22,Zaanse Snoepfabriek,38,51,0
+10700,SAVEA,3,10-10-1997,Leverling Janet,1072.9,65.1,1,Speedy Express,Save-a-lot Markets,1,Chai,1,Beverages,30346,4,Southern,1,Exotic Liquids,76,55.45,0.200000003
+10701,HUNGO,6,13-10-1997,Suyama Michael,3600.53,220.31,1,Speedy Express,Hungry Owl All-Night Grocers,59,Raclette Courdavault,4,Dairy Products,85014,2,Western,28,Gai pâturage,108,219.84,0.150000006
+10702,ALFKI,4,13-10-1997,Peacock Margaret,114,23.94,3,Federal Shipping,Alfreds Futterkiste,3,Aniseed Syrup,2,Condiments,20852,1,Eastern,1,Exotic Liquids,12,9.5,0
+10703,FOLKO,6,14-10-1997,Suyama Michael,2047.2,152.3,1,Speedy Express,Folk och fä HB,2,Chang,1,Beverages,85014,2,Western,1,Exotic Liquids,117,66,0
+10704,QUEEN,6,14-10-1997,Suyama Michael,3369.55,4.78,3,Federal Shipping,Queen Cozinha,4,Chef Anton's Cajun Seasoning,2,Condiments,85014,2,Western,2,New Orleans Cajun Delights,97,94.5,0
+10705,HILAA,9,15-10-1997,Dodsworth Anne,330,3.52,1,Speedy Express,HILARION-Abastos,31,Gorgonzola Telino,4,Dairy Products,03049,3,Northern,14,Formaggi Fortini s.r.l.,21,28,0
+10706,OLDWO,8,16-10-1997,Callahan Laura,2545,135.63,2,United Package,Old World Delicatessen,16,Pavlova,3,Confections,19428,3,Northern,7,"Pavlova, Ltd.",75,89,0
+10707,AROUT,4,16-10-1997,Peacock Margaret,595.5,21.74,1,Speedy Express,Around the Horn,55,Pâté chinois,6,Meat/Poultry,20852,1,Eastern,25,Ma Maison,65,39.25,0
+10708,THEBI,6,17-10-1997,Suyama Michael,378,2.96,2,United Package,The Big Cheese,5,Chef Anton's Gumbo Mix,2,Condiments,85014,2,Western,2,New Orleans Cajun Delights,24,44.5,0
+10709,GOURL,1,17-10-1997,Davolio Nancy,1893,210.8,3,Federal Shipping,Gourmet Lanchonetes,8,Northwoods Cranberry Sauce,2,Condiments,06897,1,Eastern,3,Grandma Kelly's Homestead,52,118.45,0
+10710,FRANS,1,20-10-1997,Davolio Nancy,1703.85,4.98,3,Federal Shipping,Franchi S.p.A.,19,Teatime Chocolate Biscuits,3,Confections,06897,1,Eastern,8,"Specialty Biscuits, Ltd.",89,58.5,0
+10711,SAVEA,5,21-10-1997,Buchanan Steven,180.4,52.41,2,United Package,Save-a-lot Markets,19,Teatime Chocolate Biscuits,3,Confections,02903,1,Eastern,8,"Specialty Biscuits, Ltd.",9,40.35,0
+10712,HUNGO,3,21-10-1997,Leverling Janet,3424,89.93,3,Federal Shipping,Hungry Owl All-Night Grocers,53,Perth Pasties,6,Meat/Poultry,30346,4,Southern,24,"G'day, Mate",78,127,0.050000001
+10713,SAVEA,1,22-10-1997,Davolio Nancy,93.5,167.05,1,Speedy Express,Save-a-lot Markets,10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,10,18.7,0
+10714,SAVEA,5,22-10-1997,Buchanan Steven,4451.7,24.49,2,United Package,Save-a-lot Markets,2,Chang,1,Beverages,02903,1,Eastern,1,Exotic Liquids,174,51.65,0.25
+10715,BONAP,3,23-10-1997,Leverling Janet,1238.35,63.2,1,Speedy Express,Bon app',10,Ikura,8,Seafood,30346,4,Southern,4,Tokyo Traders,33,70.8,0
+10716,RANCH,4,24-10-1997,Peacock Margaret,2827.9,22.57,1,Speedy Express,Rancho grande,21,Sir Rodney's Scones,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",182,83.73,0
+10717,FRANK,1,24-10-1997,Davolio Nancy,2939.75,59.25,3,Federal Shipping,Frankenversand,21,Sir Rodney's Scones,3,Confections,06897,1,Eastern,8,"Specialty Biscuits, Ltd.",137,118.75,0.050000001
+10718,KOENE,1,27-10-1997,Davolio Nancy,1296,170.88,1,Speedy Express,Königlich Essen,12,Queso Manchego La Pastora,4,Dairy Products,06897,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',51,52.5,0
+10719,LETSS,8,27-10-1997,Callahan Laura,706,51.44,2,United Package,Let's Stop N Shop,18,Carnarvon Tigers,8,Seafood,19428,3,Northern,7,"Pavlova, Ltd.",22,91.5,0.25
+10720,QUEDE,8,28-10-1997,Callahan Laura,1331.65,9.53,2,United Package,Que Delícia,35,Steeleye Stout,1,Beverages,19428,3,Northern,16,Bigfoot Breweries,72,53.45,0
+10721,QUICK,5,29-10-1997,Buchanan Steven,3463,48.92,3,Federal Shipping,QUICK-Stop,44,Gula Malacca,2,Condiments,02903,1,Eastern,20,Leka Trading,116,123.75,0.050000001
+10722,SAVEA,8,29-10-1997,Callahan Laura,1124.92,74.58,2,United Package,Save-a-lot Markets,2,Chang,1,Beverages,19428,3,Northern,1,Exotic Liquids,55,95.84,0
+10723,WHITC,3,30-10-1997,Leverling Janet,550,21.72,2,United Package,White Clover Markets,26,Gumbär Gummibärchen,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,29,39.5,0
+10724,MEREP,8,30-10-1997,Callahan Laura,972.45,57.75,3,Federal Shipping,Mère Paillarde,10,Ikura,8,Seafood,19428,3,Northern,4,Tokyo Traders,50,19.45,0
+10725,FAMIA,4,31-10-1997,Peacock Margaret,1570,10.83,1,Speedy Express,Familia Arquibaldo,41,Jack's New England Clam Chowder,8,Seafood,20852,1,Eastern,19,New England Seafood Cannery,140,51.75,0
+10726,EASTC,4,03-11-1997,Peacock Margaret,468.45,16.56,1,Speedy Express,Eastern Connection,4,Chef Anton's Cajun Seasoning,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,15,31.23,0
+10727,REGGC,2,03-11-1997,Fuller Andrew,638.5,89.9,2,United Package,Reggiani Caseifici,17,Alice Mutton,6,Meat/Poultry,01581,1,Eastern,7,"Pavlova, Ltd.",21,59.5,0.050000001
+10728,QUEEN,4,04-11-1997,Peacock Margaret,287.8,58.33,3,Federal Shipping,Queen Cozinha,30,Nord-Ost Matjeshering,8,Seafood,20852,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,22,40.65,0
+10729,LINOD,8,04-11-1997,Callahan Laura,655,141.06,1,Speedy Express,LINO-Delicateses,1,Chai,1,Beverages,19428,3,Northern,1,Exotic Liquids,30,43,0
+10730,BONAP,5,05-11-1997,Buchanan Steven,1709.85,20.12,1,Speedy Express,Bon app',16,Pavlova,3,Confections,02903,1,Eastern,7,"Pavlova, Ltd.",40,132,0.050000001
+10731,CHOPS,7,06-11-1997,King Robert,1296.75,96.65,2,United Package,Chop-suey Chinese,21,Sir Rodney's Scones,3,Confections,60179,2,Western,8,"Specialty Biscuits, Ltd.",48,102.29,0.050000001
+10733,BERGS,1,07-11-1997,Davolio Nancy,509.6,110.11,1,Speedy Express,Berglunds snabbköp,14,Tofu,7,Produce,06897,1,Eastern,6,Mayumi's,28,51,0
+10734,GOURL,2,07-11-1997,Fuller Andrew,1989.9,1.63,1,Speedy Express,Gourmet Lanchonetes,6,Grandma's Boysenberry Spread,2,Condiments,01581,1,Eastern,3,Grandma Kelly's Homestead,70,63,0
+10736,HUNGO,9,11-11-1997,Dodsworth Anne,1498.35,44.1,3,Federal Shipping,Hungry Owl All-Night Grocers,65,Louisiana Fiery Hot Pepper Sauce,2,Condiments,03049,3,Northern,2,New Orleans Cajun Delights,65,68.89,0
+10737,VINET,2,11-11-1997,Fuller Andrew,997,7.79,2,United Package,Vins et alcools Chevalier,13,Konbu,8,Seafood,01581,1,Eastern,6,Mayumi's,60,28.8,0
+10738,SPECD,2,12-11-1997,Fuller Andrew,139.8,2.91,2,United Package,Spécialités du monde,16,Pavlova,3,Confections,01581,1,Eastern,7,"Pavlova, Ltd.",16,15.65,0
+10739,VINET,3,12-11-1997,Leverling Janet,52.35,11.08,1,Speedy Express,Vins et alcools Chevalier,36,Inlagd Sill,8,Seafood,30346,4,Southern,17,Svensk Sjöföda AB,3,17.45,0
+10740,WHITC,4,13-11-1997,Peacock Margaret,240,81.88,3,Federal Shipping,White Clover Markets,28,Rössle Sauerkraut,7,Produce,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,24,26,0.200000003
+10741,AROUT,4,14-11-1997,Peacock Margaret,1769.2,10.96,2,United Package,Around the Horn,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,94,111.1,0.200000003
+10742,BOTTM,3,14-11-1997,Leverling Janet,284.8,243.73,3,Federal Shipping,Bottom-Dollar Markets,3,Aniseed Syrup,2,Condiments,30346,4,Southern,1,Exotic Liquids,15,19,0
+10743,AROUT,1,17-11-1997,Davolio Nancy,3118,23.72,3,Federal Shipping,Around the Horn,46,Spegesild,8,Seafood,06897,1,Eastern,21,Lyngbysild,105,78.8,0.050000001
+10744,VAFFE,6,17-11-1997,Suyama Michael,335.95,69.19,2,United Package,Vaffeljernet,40,Boston Crab Meat,8,Seafood,85014,2,Western,19,New England Seafood Cannery,28,12,0.200000003
+10745,QUICK,9,18-11-1997,Dodsworth Anne,919.8,3.52,1,Speedy Express,QUICK-Stop,18,Carnarvon Tigers,8,Seafood,03049,3,Northern,7,"Pavlova, Ltd.",50,18.4,0
+10746,CHOPS,1,19-11-1997,Davolio Nancy,4529.8,31.43,1,Speedy Express,Chop-suey Chinese,13,Konbu,8,Seafood,06897,1,Eastern,6,Mayumi's,92,171.75,0
+10747,PICCO,6,19-11-1997,Suyama Michael,2311.7,117.33,3,Federal Shipping,Piccolo und mehr,31,Gorgonzola Telino,4,Dairy Products,85014,2,Western,14,Formaggi Fortini s.r.l.,83,105.3,0
+10748,SAVEA,3,20-11-1997,Leverling Janet,1912.85,232.55,1,Speedy Express,Save-a-lot Markets,23,Tunnbröd,5,Grains/Cereals,30346,4,Southern,9,PB Knäckebröd AB,82,102.05,0
+10749,ISLAT,4,20-11-1997,Peacock Margaret,2196,61.53,1,Speedy Express,Island Trading,56,Gnocchi di nonna Alice,5,Grains/Cereals,20852,1,Eastern,26,Pasta Buttini s.r.l.,112,65.4,0
+10750,WARTH,9,21-11-1997,Dodsworth Anne,1080,79.3,2,United Package,Wartian Herkku,14,Tofu,7,Produce,03049,3,Northern,6,Mayumi's,31,111,0.150000006
+10751,RICSU,3,24-11-1997,Leverling Janet,1870.8,130.79,1,Speedy Express,Richter Supermarkt,26,Gumbär Gummibärchen,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,70,87.75,0.100000001
+10752,NORTS,2,24-11-1997,Fuller Andrew,1701.26,1.39,3,Federal Shipping,North/South,1,Chai,1,Beverages,01581,1,Eastern,1,Exotic Liquids,77,88.37,0
+10753,FRANS,3,25-11-1997,Leverling Janet,252,7.7,3,Federal Shipping,Franchi S.p.A.,45,Rogede sild,8,Seafood,30346,4,Southern,21,Lyngbysild,11,54,0
+10754,MAGAA,6,25-11-1997,Suyama Michael,88,2.38,1,Speedy Express,Magazzini Alimentari Riuniti,40,Boston Crab Meat,8,Seafood,85014,2,Western,19,New England Seafood Cannery,9,19.5,0
+10755,BONAP,4,26-11-1997,Peacock Margaret,55.2,16.71,3,Federal Shipping,Bon app',47,Zaanse koeken,3,Confections,20852,1,Eastern,22,Zaanse Snoepfabriek,3,18.4,0.25
+10756,SPLIR,8,27-11-1997,Callahan Laura,2597,73.21,2,United Package,Split Rail Beer & Ale,18,Carnarvon Tigers,8,Seafood,19428,3,Northern,7,"Pavlova, Ltd.",99,103,0.200000003
+10757,SAVEA,6,27-11-1997,Suyama Michael,2486.7,8.19,2,United Package,Save-a-lot Markets,34,Sasquatch Ale,1,Beverages,85014,2,Western,16,Bigfoot Breweries,67,130,0
+10758,RICSU,3,28-11-1997,Leverling Janet,3082,138.17,1,Speedy Express,Richter Supermarkt,26,Gumbär Gummibärchen,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,91,151.55,0
+10759,ANATR,3,28-11-1997,Leverling Janet,1644.6,11.99,3,Federal Shipping,Ana Trujillo Emparedados y helados,32,Mascarpone Fabioli,4,Dairy Products,30346,4,Southern,14,Formaggi Fortini s.r.l.,120,53.23,0
+10760,MAISD,4,01-12-1997,Peacock Margaret,320,155.64,3,Federal Shipping,Maison Dewey,25,NuNuCa Nuß-Nougat-Creme,3,Confections,20852,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,10,32,0.25
+10761,RATTC,5,02-12-1997,Buchanan Steven,3303.5,18.66,1,Speedy Express,Rattlesnake Canyon Grocery,25,NuNuCa Nuß-Nougat-Creme,3,Confections,02903,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,82,103.9,0.25
+10762,FOLKO,3,02-12-1997,Leverling Janet,629.25,328.74,2,United Package,Folk och fä HB,39,Chartreuse verte,1,Beverages,30346,4,Southern,18,Aux joyeux ecclésiastiques,53,21.75,0
+10763,FOLIG,3,03-12-1997,Leverling Janet,4337,37.35,1,Speedy Express,Folies gourmandes,21,Sir Rodney's Scones,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",134,118.5,0
+10764,ERNSH,6,03-12-1997,Suyama Michael,616,145.45,3,Federal Shipping,Ernst Handel,3,Aniseed Syrup,2,Condiments,85014,2,Western,1,Exotic Liquids,66,35.5,0.100000001
+10765,QUICK,3,04-12-1997,Leverling Janet,2539.8,42.74,3,Federal Shipping,QUICK-Stop,65,Louisiana Fiery Hot Pepper Sauce,2,Condiments,30346,4,Southern,2,New Orleans Cajun Delights,150,28,0.100000001
+10766,OTTIK,4,05-12-1997,Peacock Margaret,1683.9,157.55,3,Federal Shipping,Ottilies Käseladen,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,80,21.05,0
+10767,SUPRD,4,05-12-1997,Peacock Margaret,2310,1.59,1,Speedy Express,Suprêmes délices,42,Singaporean Hokkien Fried Mee,5,Grains/Cereals,20852,1,Eastern,20,Leka Trading,115,61.5,0
+10768,AROUT,3,08-12-1997,Leverling Janet,28,146.32,3,Federal Shipping,Around the Horn,22,Gustaf's Knäckebröd,5,Grains/Cereals,30346,4,Southern,9,PB Knäckebröd AB,2,14,0
+10769,VAFFE,3,08-12-1997,Leverling Janet,1477,65.06,2,United Package,Vaffeljernet,41,Jack's New England Clam Chowder,8,Seafood,30346,4,Southern,19,New England Seafood Cannery,81,89,0.050000001
+10770,HANAR,8,09-12-1997,Callahan Laura,1703.9,5.32,1,Speedy Express,Hanari Carnes,11,Queso Cabrales,4,Dairy Products,19428,3,Northern,5,Cooperativa de Quesos 'Las Cabras',80,94.45,0.25
+10771,ERNSH,9,10-12-1997,Dodsworth Anne,314.75,11.19,3,Federal Shipping,Ernst Handel,71,Flotemysost,4,Dairy Products,03049,3,Northern,15,Norske Meierier,15,21,0
+10772,LEHMS,3,10-12-1997,Leverling Janet,344,91.28,2,United Package,Lehmanns Marktstand,29,Thüringer Rostbratwurst,6,Meat/Poultry,30346,4,Southern,12,Plutzer Lebensmittelgroßmärkte AG,16,21.5,0
+10773,ERNSH,1,11-12-1997,Davolio Nancy,3603.22,96.43,2,United Package,Ernst Handel,17,Alice Mutton,6,Meat/Poultry,06897,1,Eastern,7,"Pavlova, Ltd.",43,178.79,0
+10774,FOLKO,4,11-12-1997,Peacock Margaret,2215.85,48.2,3,Federal Shipping,Folk och fä HB,31,Gorgonzola Telino,4,Dairy Products,20852,1,Eastern,14,Formaggi Fortini s.r.l.,110,59.25,0.25
+10775,THECR,7,12-12-1997,King Robert,874.75,20.25,1,Speedy Express,The Cracker Box,10,Ikura,8,Seafood,60179,2,Western,4,Tokyo Traders,52,29.5,0
+10776,ERNSH,1,15-12-1997,Davolio Nancy,228,351.53,1,Speedy Express,Ernst Handel,31,Gorgonzola Telino,4,Dairy Products,06897,1,Eastern,14,Formaggi Fortini s.r.l.,9,45,0.050000001
+10777,GOURL,7,15-12-1997,King Robert,6984.3,3.01,3,Federal Shipping,Gourmet Lanchonetes,42,Singaporean Hokkien Fried Mee,5,Grains/Cereals,60179,2,Western,20,Leka Trading,175,89,0.200000003
+10778,BERGS,3,16-12-1997,Leverling Janet,279.8,6.79,2,United Package,Berglunds snabbköp,41,Jack's New England Clam Chowder,8,Seafood,30346,4,Southern,19,New England Seafood Cannery,20,14,0
+10779,MORGK,3,16-12-1997,Leverling Janet,96.5,58.13,1,Speedy Express,Morgenstern Gesundkost,16,Pavlova,3,Confections,30346,4,Southern,7,"Pavlova, Ltd.",10,9.65,0
+10780,LILAS,2,16-12-1997,Fuller Andrew,1335,42.13,2,United Package,LILA-Supermercado,70,Outback Lager,1,Beverages,01581,1,Eastern,7,"Pavlova, Ltd.",40,66.75,0
+10781,WARTH,2,17-12-1997,Fuller Andrew,720,73.16,1,Speedy Express,Wartian Herkku,54,Tourtière,6,Meat/Poultry,01581,1,Eastern,25,Ma Maison,50,28,0.200000003
+10782,CACTU,9,17-12-1997,Dodsworth Anne,1131.95,1.1,3,Federal Shipping,Cactus Comidas para llevar,31,Gorgonzola Telino,4,Dairy Products,03049,3,Northern,14,Formaggi Fortini s.r.l.,58,55.45,0
+10783,HANAR,4,18-12-1997,Peacock Margaret,12.5,124.98,3,Federal Shipping,Hanari Carnes,31,Gorgonzola Telino,4,Dairy Products,20852,1,Eastern,14,Formaggi Fortini s.r.l.,1,12.5,0
+10784,MAGAA,4,18-12-1997,Peacock Margaret,1442.5,70.09,2,United Package,Magazzini Alimentari Riuniti,36,Inlagd Sill,8,Seafood,20852,1,Eastern,17,Svensk Sjöföda AB,15,276,0
+10785,GROSR,1,18-12-1997,Davolio Nancy,1649.7,1.51,3,Federal Shipping,GROSELLA-Restaurante,10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,62,71.8,0
+10786,QUEEN,8,19-12-1997,Callahan Laura,387.5,110.87,3,Federal Shipping,Queen Cozinha,8,Northwoods Cranberry Sauce,2,Condiments,19428,3,Northern,3,Grandma Kelly's Homestead,20,38.75,0.200000003
+10787,LAMAI,2,19-12-1997,Fuller Andrew,1913.25,249.93,1,Speedy Express,La maison d'Asie,2,Chang,1,Beverages,01581,1,Eastern,1,Exotic Liquids,87,73.64,0.050000001
+10788,QUICK,1,22-12-1997,Davolio Nancy,2760.7,42.7,1,Speedy Express,QUICK-Stop,19,Teatime Chocolate Biscuits,3,Confections,06897,1,Eastern,8,"Specialty Biscuits, Ltd.",35,142.79,0.050000001
+10789,FOLIG,1,22-12-1997,Davolio Nancy,769.9,100.6,2,United Package,Folies gourmandes,18,Carnarvon Tigers,8,Seafood,06897,1,Eastern,7,"Pavlova, Ltd.",90,16.95,0
+10790,GOURL,6,22-12-1997,Suyama Michael,3687,28.23,2,United Package,Gourmet Lanchonetes,7,Uncle Bob's Organic Dried Pears,7,Produce,85014,2,Western,3,Grandma Kelly's Homestead,93,136.9,0.150000006
+10791,FRANK,6,23-12-1997,Suyama Michael,849.7,16.85,1,Speedy Express,Frankenversand,29,Thüringer Rostbratwurst,6,Meat/Poultry,85014,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,23,68,0.050000001
+10792,WOLZA,1,23-12-1997,Davolio Nancy,1925.96,23.79,2,United Package,Wolski  Zajazd,2,Chang,1,Beverages,06897,1,Eastern,1,Exotic Liquids,34,133.44,0
+10793,AROUT,3,24-12-1997,Leverling Janet,399.85,4.52,3,Federal Shipping,Around the Horn,41,Jack's New England Clam Chowder,8,Seafood,30346,4,Southern,19,New England Seafood Cannery,28,38.95,0
+10794,QUEDE,6,24-12-1997,Suyama Michael,191.1,21.49,3,Federal Shipping,Que Delícia,14,Tofu,7,Produce,85014,2,Western,6,Mayumi's,22,16.65,0.200000003
+10795,ERNSH,8,24-12-1997,Callahan Laura,393.05,126.66,1,Speedy Express,Ernst Handel,16,Pavlova,3,Confections,19428,3,Northern,7,"Pavlova, Ltd.",21,30.7,0
+10796,HILAA,3,25-12-1997,Leverling Janet,2499,26.52,2,United Package,HILARION-Abastos,26,Gumbär Gummibärchen,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,100,56.45,0.200000003
+10797,DRACD,7,25-12-1997,King Robert,2877.48,33.35,1,Speedy Express,Drachenblut Delikatessen,11,Queso Cabrales,4,Dairy Products,60179,2,Western,5,Cooperativa de Quesos 'Las Cabras',90,119.93,0
+10798,ISLAT,2,26-12-1997,Fuller Andrew,420,2.33,2,United Package,Island Trading,62,Tarte au sucre,3,Confections,01581,1,Eastern,29,Forêts d'érables,20,21,0
+10799,KOENE,9,26-12-1997,Dodsworth Anne,446.6,30.76,1,Speedy Express,Königlich Essen,13,Konbu,8,Seafood,03049,3,Northern,6,Mayumi's,12,84.1,0.150000006
+10800,SEVES,1,26-12-1997,Davolio Nancy,1584.7,137.44,3,Federal Shipping,Seven Seas Imports,11,Queso Cabrales,4,Dairy Products,06897,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',65,65.5,0.100000001
+10801,BOLID,4,29-12-1997,Peacock Margaret,1631.85,97.09,3,Federal Shipping,Bólido Comidas preparadas,17,Alice Mutton,6,Meat/Poultry,20852,1,Eastern,7,"Pavlova, Ltd.",67,81.45,0.25
+10802,SIMOB,4,29-12-1997,Peacock Margaret,4035.3,257.26,2,United Package,Simons bistro,30,Nord-Ost Matjeshering,8,Seafood,20852,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,60,162.79,0.25
+10803,WELLI,4,30-12-1997,Peacock Margaret,3922.75,55.23,2,United Package,Wellington Importadora,19,Teatime Chocolate Biscuits,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",120,152.19,0.050000001
+10804,SEVES,6,30-12-1997,Suyama Michael,1255.65,27.33,1,Speedy Express,Seven Seas Imports,10,Ikura,8,Seafood,85014,2,Western,4,Tokyo Traders,54,78.2,0
+10805,THEBI,2,30-12-1997,Fuller Andrew,2290.25,237.34,2,United Package,The Big Cheese,34,Sasquatch Ale,1,Beverages,01581,1,Eastern,16,Bigfoot Breweries,64,96.6,0
+10806,VICTE,3,31-12-1997,Leverling Janet,2775,22.11,3,Federal Shipping,Victuailles en stock,2,Chang,1,Beverages,30346,4,Southern,1,Exotic Liquids,20,277.5,0.25
+10807,FRANS,4,31-12-1997,Peacock Margaret,571.6,1.36,2,United Package,Franchi S.p.A.,40,Boston Crab Meat,8,Seafood,20852,1,Eastern,19,New England Seafood Cannery,37,50.05,0
+10808,OLDWO,2,01-01-1998,Fuller Andrew,18.4,45.53,1,Speedy Express,Old World Delicatessen,56,Gnocchi di nonna Alice,5,Grains/Cereals,01581,1,Eastern,26,Pasta Buttini s.r.l.,1,18.4,0.150000006
+10809,WELLI,7,01-01-1998,King Robert,1659.7,4.87,3,Federal Shipping,Wellington Importadora,52,Filo Mix,5,Grains/Cereals,60179,2,Western,24,"G'day, Mate",70,56,0
+10810,LAUGB,2,01-01-1998,Fuller Andrew,140,4.33,1,Speedy Express,Laughing Bacchus Wine Cellars,13,Konbu,8,Seafood,01581,1,Eastern,6,Mayumi's,20,7,0
+10811,LINOD,8,02-01-1998,Callahan Laura,187,31.22,3,Federal Shipping,LINO-Delicateses,19,Teatime Chocolate Biscuits,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",17,35,0
+10812,REGGC,5,02-01-1998,Buchanan Steven,852,59.78,1,Speedy Express,Reggiani Caseifici,31,Gorgonzola Telino,4,Dairy Products,02903,1,Eastern,14,Formaggi Fortini s.r.l.,63,36.6,0.100000001
+10813,RICAR,1,05-01-1998,Davolio Nancy,1851.8,47.38,1,Speedy Express,Ricardo Adocicados,2,Chang,1,Beverages,06897,1,Eastern,1,Exotic Liquids,76,60.3,0.200000003
+10814,VICTE,3,05-01-1998,Leverling Janet,647.8,130.94,1,Speedy Express,Victuailles en stock,41,Jack's New England Clam Chowder,8,Seafood,30346,4,Southern,19,New England Seafood Cannery,47,31,0
+10815,SAVEA,2,05-01-1998,Fuller Andrew,2069.55,14.62,3,Federal Shipping,Save-a-lot Markets,33,Geitost,4,Dairy Products,01581,1,Eastern,15,Norske Meierier,78,96.9,0
+10816,GREAL,4,06-01-1998,Peacock Margaret,40,719.78,3,Federal Shipping,Great Lakes Food Market,38,Côte de Blaye,1,Beverages,20852,1,Eastern,18,Aux joyeux ecclésiastiques,16,2.5,0.050000001
+10817,KOENE,3,06-01-1998,Leverling Janet,8890.9,306.07,2,United Package,Königlich Essen,26,Gumbär Gummibärchen,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,50,312.8,0.150000006
+10818,MAGAA,7,07-01-1998,King Robert,11490.25,65.48,2,United Package,Magazzini Alimentari Riuniti,32,Mascarpone Fabioli,4,Dairy Products,60179,2,Western,14,Formaggi Fortini s.r.l.,155,362.43,0
+10819,CACTU,2,07-01-1998,Fuller Andrew,833,19.76,3,Federal Shipping,Cactus Comidas para llevar,43,Ipoh Coffee,1,Beverages,01581,1,Eastern,20,Leka Trading,40,41.65,0
+10820,RATTC,3,07-01-1998,Leverling Janet,477,37.52,3,Federal Shipping,Rattlesnake Canyon Grocery,56,Gnocchi di nonna Alice,5,Grains/Cereals,30346,4,Southern,26,Pasta Buttini s.r.l.,27,53.75,0
+10821,SPLIR,1,08-01-1998,Davolio Nancy,1140,36.68,2,United Package,Split Rail Beer & Ale,35,Steeleye Stout,1,Beverages,06897,1,Eastern,16,Bigfoot Breweries,30,38,0
+10822,TRAIH,6,08-01-1998,Suyama Michael,678,7,1,Speedy Express,Trail's Head Gourmet Provisioners,62,Tarte au sucre,3,Confections,85014,2,Western,29,Forêts d'érables,26,71,0
+10823,LILAS,5,09-01-1998,Buchanan Steven,237.9,163.97,3,Federal Shipping,LILA-Supermercado,11,Queso Cabrales,4,Dairy Products,02903,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',9,64.3,0.100000001
+10824,FOLKO,8,09-01-1998,Callahan Laura,3107.2,1.23,2,United Package,Folk och fä HB,41,Jack's New England Clam Chowder,8,Seafood,19428,3,Northern,19,New England Seafood Cannery,90,108.5,0
+10825,DRACD,1,09-01-1998,Davolio Nancy,250.8,79.25,1,Speedy Express,Drachenblut Delikatessen,26,Gumbär Gummibärchen,3,Confections,06897,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,21,24.65,0
+10826,BLONP,6,12-01-1998,Suyama Michael,1030.76,7.09,1,Speedy Express,Blondesddsl père et fils,31,Gorgonzola Telino,4,Dairy Products,85014,2,Western,14,Formaggi Fortini s.r.l.,32,64.03,0
+10827,BONAP,1,12-01-1998,Davolio Nancy,730,63.54,1,Speedy Express,Bon app',10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,50,32,0
+10828,RANCH,9,13-01-1998,Dodsworth Anne,843,90.85,2,United Package,Rancho grande,20,Sir Rodney's Marmalade,3,Confections,03049,3,Northern,8,"Specialty Biscuits, Ltd.",36,49,0
+10829,ISLAT,9,13-01-1998,Dodsworth Anne,932,154.72,1,Speedy Express,Island Trading,2,Chang,1,Beverages,03049,3,Northern,1,Exotic Liquids,7,344.5,0
+10830,TRADH,4,13-01-1998,Peacock Margaret,1764,81.83,1,Speedy Express,Tradição Hipermercados,6,Grandma's Boysenberry Spread,2,Condiments,20852,1,Eastern,3,Grandma Kelly's Homestead,61,99,0
+10831,SANTG,3,14-01-1998,Leverling Janet,1974,72.19,2,United Package,Santé Gourmet,19,Teatime Chocolate Biscuits,3,Confections,30346,4,Southern,8,"Specialty Biscuits, Ltd.",88,89.5,0
+10832,LAMAI,2,14-01-1998,Fuller Andrew,2684.4,43.26,2,United Package,La maison d'Asie,13,Konbu,8,Seafood,01581,1,Eastern,6,Mayumi's,27,336.7,0.200000003
+10833,OTTIK,6,15-01-1998,Suyama Michael,568.35,71.49,2,United Package,Ottilies Käseladen,7,Uncle Bob's Organic Dried Pears,7,Produce,85014,2,Western,3,Grandma Kelly's Homestead,32,72.7,0.100000001
+10834,TRADH,1,15-01-1998,Davolio Nancy,1007.4,29.78,2,United Package,Tradição Hipermercados,29,Thüringer Rostbratwurst,6,Meat/Poultry,06897,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,38,75.3,0.050000001
+10835,ALFKI,1,15-01-1998,Davolio Nancy,1508.02,69.53,3,Federal Shipping,Alfreds Futterkiste,59,Raclette Courdavault,4,Dairy Products,06897,1,Eastern,28,Gai pâturage,28,149.68,0
+10836,ERNSH,7,16-01-1998,King Robert,850.8,411.88,3,Federal Shipping,Ernst Handel,22,Gustaf's Knäckebröd,5,Grains/Cereals,60179,2,Western,9,PB Knäckebröd AB,17,68,0
+10837,BERGS,9,16-01-1998,Dodsworth Anne,4705.5,13.32,1,Speedy Express,Berglunds snabbköp,13,Konbu,8,Seafood,03049,3,Northern,6,Mayumi's,172,125.75,0
+10838,LINOD,3,19-01-1998,Leverling Janet,1253.5,59.28,3,Federal Shipping,LINO-Delicateses,1,Chai,1,Beverages,30346,4,Southern,1,Exotic Liquids,92,51.9,0.25
+10839,TRADH,3,19-01-1998,Leverling Janet,2583.75,35.43,3,Federal Shipping,Tradição Hipermercados,58,Escargots de Bourgogne,8,Seafood,30346,4,Southern,27,Escargots Nouveaux,79,99.5,0.100000001
+10840,LINOD,4,19-01-1998,Peacock Margaret,919.3,2.71,3,Federal Shipping,LINO-Delicateses,25,NuNuCa Nuß-Nougat-Creme,3,Confections,20852,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,45,48.05,0.200000003
+10841,SUPRD,5,20-01-1998,Buchanan Steven,263.6,424.3,2,United Package,Suprêmes délices,10,Ikura,8,Seafood,02903,1,Eastern,4,Tokyo Traders,16,32,0
+10842,TORTU,1,20-01-1998,Davolio Nancy,4581,54.42,2,United Package,Tortuga Restaurante,11,Queso Cabrales,4,Dairy Products,06897,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',111,137,0
+10843,VICTE,4,21-01-1998,Peacock Margaret,975,9.26,3,Federal Shipping,Victuailles en stock,51,Manjimup Dried Apples,7,Produce,20852,1,Eastern,24,"G'day, Mate",52,94.5,0.25
+10844,PICCO,8,21-01-1998,Callahan Laura,211.75,25.22,2,United Package,Piccolo und mehr,22,Gustaf's Knäckebröd,5,Grains/Cereals,19428,3,Northern,9,PB Knäckebröd AB,4,53,0
+10845,QUICK,8,21-01-1998,Callahan Laura,735,212.98,2,United Package,QUICK-Stop,23,Tunnbröd,5,Grains/Cereals,19428,3,Northern,9,PB Knäckebröd AB,35,21,0.100000001
+10846,SUPRD,2,22-01-1998,Fuller Andrew,4058.6,56.46,1,Speedy Express,Suprêmes délices,4,Chef Anton's Cajun Seasoning,2,Condiments,01581,1,Eastern,2,New Orleans Cajun Delights,245,87.5,0
+10847,SAVEA,4,22-01-1998,Peacock Margaret,1112,487.57,3,Federal Shipping,Save-a-lot Markets,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,71,47,0.200000003
+10848,CONSH,7,23-01-1998,King Robert,6163.7,38.24,3,Federal Shipping,Consolidated Holdings,5,Chef Anton's Gumbo Mix,2,Condiments,60179,2,Western,2,New Orleans Cajun Delights,288,118.2,0
+10849,KOENE,9,23-01-1998,Dodsworth Anne,931.5,0.56,2,United Package,Königlich Essen,3,Aniseed Syrup,2,Condiments,03049,3,Northern,1,Exotic Liquids,33,118.35,0
+10850,VICTE,1,23-01-1998,Davolio Nancy,1051.99,49.19,2,United Package,Victuailles en stock,25,NuNuCa Nuß-Nougat-Creme,3,Confections,06897,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,67,41.23,0.150000006
+10851,RICAR,5,26-01-1998,Buchanan Steven,739.55,160.55,1,Speedy Express,Ricardo Adocicados,2,Chang,1,Beverages,02903,1,Eastern,1,Exotic Liquids,54,31.5,0.050000001
+10852,RATTC,8,26-01-1998,Callahan Laura,2739.8,174.05,1,Speedy Express,Rattlesnake Canyon Grocery,2,Chang,1,Beverages,19428,3,Northern,1,Exotic Liquids,67,107.5,0
+10853,BLAUS,9,27-01-1998,Dodsworth Anne,2984,53.83,1,Speedy Express,Blauer See Delikatessen,18,Carnarvon Tigers,8,Seafood,03049,3,Northern,7,"Pavlova, Ltd.",71,107.3,0
+10854,ERNSH,3,27-01-1998,Leverling Janet,625,100.22,2,United Package,Ernst Handel,10,Ikura,8,Seafood,30346,4,Southern,4,Tokyo Traders,10,62.5,0.150000006
+10855,OLDWO,3,27-01-1998,Leverling Janet,3489.7,170.97,2,United Package,Old World Delicatessen,16,Pavlova,3,Confections,30346,4,Southern,7,"Pavlova, Ltd.",165,37,0
+10856,ANTON,3,28-01-1998,Leverling Janet,2275.1,58.43,1,Speedy Express,Antonio Moreno Taquería,2,Chang,1,Beverages,30346,4,Southern,1,Exotic Liquids,103,89,0
+10857,BERGS,8,28-01-1998,Callahan Laura,660,188.85,2,United Package,Berglunds snabbköp,3,Aniseed Syrup,2,Condiments,19428,3,Northern,1,Exotic Liquids,40,33,0
+10858,LACOR,2,29-01-1998,Fuller Andrew,2630.45,52.51,2,United Package,La corne d'abondance,7,Uncle Bob's Organic Dried Pears,7,Produce,01581,1,Eastern,3,Grandma Kelly's Homestead,75,165.02,0
+10859,FRANK,1,29-01-1998,Davolio Nancy,649,76.1,1,Speedy Express,Frankenversand,24,Guaraná Fantástica,1,Beverages,06897,1,Eastern,10,Refrescos Americanas LTDA,19,88.9,0.25
+10860,FRANR,3,29-01-1998,Leverling Janet,1437.5,19.26,2,United Package,France restauration,51,Manjimup Dried Apples,7,Produce,30346,4,Southern,24,"G'day, Mate",105,45.2,0
+10861,WHITC,4,30-01-1998,Peacock Margaret,519,14.93,3,Federal Shipping,White Clover Markets,17,Alice Mutton,6,Meat/Poultry,20852,1,Eastern,7,"Pavlova, Ltd.",23,71,0
+10862,LEHMS,8,30-01-1998,Callahan Laura,3523.4,53.23,2,United Package,Lehmanns Marktstand,11,Queso Cabrales,4,Dairy Products,19428,3,Northern,5,Cooperativa de Quesos 'Las Cabras',140,163.3,0
+10863,HILAA,4,02-02-1998,Peacock Margaret,581,30.26,2,United Package,HILARION-Abastos,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,33,28,0.150000006
+10864,AROUT,4,02-02-1998,Peacock Margaret,518.7,3.04,2,United Package,Around the Horn,35,Steeleye Stout,1,Beverages,20852,1,Eastern,16,Bigfoot Breweries,32,31.25,0
+10865,QUICK,2,02-02-1998,Fuller Andrew,282,348.14,2,United Package,QUICK-Stop,38,Côte de Blaye,1,Beverages,01581,1,Eastern,18,Aux joyeux ecclésiastiques,19,32,0.050000001
+10866,BERGS,5,03-02-1998,Buchanan Steven,17249.9,109.11,1,Speedy Express,Berglunds snabbköp,2,Chang,1,Beverages,02903,1,Eastern,1,Exotic Liquids,140,281.5,0.25
+10867,LONEP,6,03-02-1998,Suyama Michael,1460.85,1.93,1,Speedy Express,Lonesome Pine Restaurant,53,Perth Pasties,6,Meat/Poultry,85014,2,Western,24,"G'day, Mate",67,49.39,0
+10868,QUEEN,7,04-02-1998,King Robert,98.4,191.27,1,Speedy Express,Queen Cozinha,26,Gumbär Gummibärchen,3,Confections,60179,2,Western,11,Heli Süßwaren GmbH & Co. KG,3,32.8,0
+10869,SEVES,5,04-02-1998,Buchanan Steven,2004.5,143.28,2,United Package,Seven Seas Imports,1,Chai,1,Beverages,02903,1,Eastern,1,Exotic Liquids,92,69.23,0
+10870,WOLZA,5,04-02-1998,Buchanan Steven,1630,12.04,1,Speedy Express,Wolski  Zajazd,35,Steeleye Stout,1,Beverages,02903,1,Eastern,16,Bigfoot Breweries,120,60.5,0
+10871,BONAP,9,05-02-1998,Dodsworth Anne,160,112.27,3,Federal Shipping,Bon app',6,Grandma's Boysenberry Spread,2,Condiments,03049,3,Northern,3,Grandma Kelly's Homestead,5,71,0.050000001
+10872,GODOS,5,05-02-1998,Buchanan Steven,2083.25,175.32,2,United Package,Godos Cocina Típica,55,Pâté chinois,6,Meat/Poultry,02903,1,Eastern,25,Ma Maison,78,81.45,0.050000001
+10873,WILMK,4,06-02-1998,Peacock Margaret,2166.6,0.82,2,United Package,Wilman Kala,21,Sir Rodney's Scones,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",66,127.6,0
+10874,GODOS,5,06-02-1998,Buchanan Steven,336.8,19.58,1,Speedy Express,Godos Cocina Típica,10,Ikura,8,Seafood,02903,1,Eastern,4,Tokyo Traders,23,55.6,0
+10875,BERGS,4,06-02-1998,Peacock Margaret,310,32.37,2,United Package,Berglunds snabbköp,19,Teatime Chocolate Biscuits,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",10,31,0
+10876,BONAP,7,09-02-1998,King Robert,729.4,60.42,2,United Package,Bon app',46,Spegesild,8,Seafood,60179,2,Western,21,Lyngbysild,61,38.7,0
+10877,RICAR,1,09-02-1998,Davolio Nancy,917,38.06,3,Federal Shipping,Ricardo Adocicados,16,Pavlova,3,Confections,06897,1,Eastern,7,"Pavlova, Ltd.",41,45.25,0.25
+10878,QUICK,4,10-02-1998,Peacock Margaret,2085.75,46.69,1,Speedy Express,QUICK-Stop,20,Sir Rodney's Marmalade,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",55,79.95,0.050000001
+10879,WILMK,3,10-02-1998,Leverling Janet,1619.95,8.5,1,Speedy Express,Wilman Kala,40,Boston Crab Meat,8,Seafood,30346,4,Southern,19,New England Seafood Cannery,20,81,0
+10880,FOLKO,7,10-02-1998,King Robert,611.3,88.01,3,Federal Shipping,Folk och fä HB,23,Tunnbröd,5,Grains/Cereals,60179,2,Western,9,PB Knäckebröd AB,32,57.45,0.200000003
+10882,SAVEA,4,11-02-1998,Peacock Margaret,988.1,23.1,3,Federal Shipping,Save-a-lot Markets,42,Singaporean Hokkien Fried Mee,5,Grains/Cereals,20852,1,Eastern,20,Leka Trading,77,41.45,0
+10883,LONEP,8,12-02-1998,Callahan Laura,36,0.53,3,Federal Shipping,Lonesome Pine Restaurant,24,Guaraná Fantástica,1,Beverages,19428,3,Northern,10,Refrescos Americanas LTDA,8,4.5,0
+10884,LETSS,4,12-02-1998,Peacock Margaret,1450.45,90.97,2,United Package,Let's Stop N Shop,21,Sir Rodney's Scones,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",73,69.05,0.050000001
+10885,SUPRD,6,12-02-1998,Suyama Michael,1209,5.64,3,Federal Shipping,Suprêmes délices,2,Chang,1,Beverages,85014,2,Western,1,Exotic Liquids,87,51.5,0
+10886,HANAR,1,13-02-1998,Davolio Nancy,3127.5,4.99,1,Speedy Express,Hanari Carnes,10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,145,56.5,0
+10887,GALED,8,13-02-1998,Callahan Laura,70,1.25,3,Federal Shipping,Galería del gastrónomo,25,NuNuCa Nuß-Nougat-Creme,3,Confections,19428,3,Northern,11,Heli Süßwaren GmbH & Co. KG,5,14,0
+10888,GODOS,1,16-02-1998,Davolio Nancy,605,51.87,2,United Package,Godos Cocina Típica,2,Chang,1,Beverages,06897,1,Eastern,1,Exotic Liquids,38,31.5,0
+10889,RATTC,9,16-02-1998,Dodsworth Anne,11380,280.61,3,Federal Shipping,Rattlesnake Canyon Grocery,11,Queso Cabrales,4,Dairy Products,03049,3,Northern,5,Cooperativa de Quesos 'Las Cabras',80,284.5,0
+10890,DUMON,7,16-02-1998,King Robert,860.1,32.76,1,Speedy Express,Du monde entier,17,Alice Mutton,6,Meat/Poultry,60179,2,Western,7,"Pavlova, Ltd.",39,62.65,0
+10891,LEHMS,7,17-02-1998,King Robert,388.3,20.37,2,United Package,Lehmanns Marktstand,30,Nord-Ost Matjeshering,8,Seafood,60179,2,Western,13,Nord-Ost-Fisch Handelsgesellschaft mbH,15,25.89,0.050000001
+10892,MAISD,4,17-02-1998,Peacock Margaret,2199.95,120.27,2,United Package,Maison Dewey,59,Raclette Courdavault,4,Dairy Products,20852,1,Eastern,28,Gai pâturage,40,55,0.050000001
+10893,KOENE,9,18-02-1998,Dodsworth Anne,5502.11,77.78,2,United Package,Königlich Essen,8,Northwoods Cranberry Sauce,2,Condiments,03049,3,Northern,3,Grandma Kelly's Homestead,119,213.18,0
+10894,SAVEA,1,18-02-1998,Davolio Nancy,2897.85,116.13,1,Speedy Express,Save-a-lot Markets,13,Konbu,8,Seafood,06897,1,Eastern,6,Mayumi's,198,49.75,0.050000001
+10895,ERNSH,3,18-02-1998,Leverling Janet,6379.4,162.75,1,Speedy Express,Ernst Handel,24,Guaraná Fantástica,1,Beverages,30346,4,Southern,10,Refrescos Americanas LTDA,346,74.9,0
+10896,MAISD,7,19-02-1998,King Robert,750.5,32.45,3,Federal Shipping,Maison Dewey,45,Rogede sild,8,Seafood,60179,2,Western,21,Lyngbysild,31,47.5,0
+10897,HUNGO,3,19-02-1998,Leverling Janet,10835.24,603.54,2,United Package,Hungry Owl All-Night Grocers,29,Thüringer Rostbratwurst,6,Meat/Poultry,30346,4,Southern,12,Plutzer Lebensmittelgroßmärkte AG,116,149.68,0
+10898,OCEAN,4,20-02-1998,Peacock Margaret,30,1.27,2,United Package,Océano Atlántico Ltda.,13,Konbu,8,Seafood,20852,1,Eastern,6,Mayumi's,5,6,0
+10899,LILAS,5,20-02-1998,Buchanan Steven,143.85,1.21,3,Federal Shipping,LILA-Supermercado,39,Chartreuse verte,1,Beverages,02903,1,Eastern,18,Aux joyeux ecclésiastiques,8,18,0.150000006
+10900,WELLI,1,20-02-1998,Davolio Nancy,44.75,1.66,2,United Package,Wellington Importadora,70,Outback Lager,1,Beverages,06897,1,Eastern,7,"Pavlova, Ltd.",3,15,0.25
+10901,HILAA,4,23-02-1998,Peacock Margaret,934.5,62.09,1,Speedy Express,HILARION-Abastos,41,Jack's New England Clam Chowder,8,Seafood,20852,1,Eastern,19,New England Seafood Cannery,60,31.15,0
+10902,FOLKO,1,23-02-1998,Davolio Nancy,1015.5,44.15,1,Speedy Express,Folk och fä HB,55,Pâté chinois,6,Meat/Poultry,06897,1,Eastern,25,Ma Maison,36,73.3,0.150000006
+10903,HANAR,3,24-02-1998,Leverling Janet,932.05,36.71,3,Federal Shipping,Hanari Carnes,13,Konbu,8,Seafood,30346,4,Southern,6,Mayumi's,81,39.55,0
+10904,WHITC,3,24-02-1998,Leverling Janet,1924.25,162.95,3,Federal Shipping,White Clover Markets,58,Escargots de Bourgogne,8,Seafood,30346,4,Southern,27,Escargots Nouveaux,50,62.55,0
+10905,WELLI,9,24-02-1998,Dodsworth Anne,359.95,13.72,2,United Package,Wellington Importadora,1,Chai,1,Beverages,03049,3,Northern,1,Exotic Liquids,20,18,0.050000001
+10906,WOLZA,4,25-02-1998,Peacock Margaret,427.5,26.29,3,Federal Shipping,Wolski  Zajazd,61,Sirop d'érable,2,Condiments,20852,1,Eastern,29,Forêts d'érables,15,28.5,0
+10907,SPECD,6,25-02-1998,Suyama Michael,108.5,9.19,3,Federal Shipping,Spécialités du monde,75,Rhönbräu Klosterbier,1,Beverages,85014,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,14,7.75,0
+10908,REGGC,4,26-02-1998,Peacock Margaret,697.9,32.96,2,United Package,Reggiani Caseifici,7,Uncle Bob's Organic Dried Pears,7,Produce,20852,1,Eastern,3,Grandma Kelly's Homestead,34,37,0.050000001
+10909,SANTG,1,26-02-1998,Davolio Nancy,670,53.05,2,United Package,Santé Gourmet,7,Uncle Bob's Organic Dried Pears,7,Produce,06897,1,Eastern,3,Grandma Kelly's Homestead,32,57.1,0
+10910,WILMK,1,26-02-1998,Davolio Nancy,452.9,38.11,3,Federal Shipping,Wilman Kala,19,Teatime Chocolate Biscuits,3,Confections,06897,1,Eastern,8,"Specialty Biscuits, Ltd.",27,57.7,0
+10911,GODOS,3,26-02-1998,Leverling Janet,858,38.19,1,Speedy Express,Godos Cocina Típica,1,Chai,1,Beverages,30346,4,Southern,1,Exotic Liquids,37,71,0
+10912,HUNGO,2,26-02-1998,Fuller Andrew,8266.9,580.91,2,United Package,Hungry Owl All-Night Grocers,11,Queso Cabrales,4,Dairy Products,01581,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',100,144.79,0.25
+10913,QUEEN,4,26-02-1998,Peacock Margaret,958.25,33.05,1,Speedy Express,Queen Cozinha,4,Chef Anton's Cajun Seasoning,2,Condiments,20852,1,Eastern,2,New Orleans Cajun Delights,85,37.75,0.25
+10914,QUEEN,6,27-02-1998,Suyama Michael,537.5,21.19,1,Speedy Express,Queen Cozinha,71,Flotemysost,4,Dairy Products,85014,2,Western,15,Norske Meierier,25,21.5,0
+10915,TORTU,2,27-02-1998,Fuller Andrew,539.5,3.51,2,United Package,Tortuga Restaurante,17,Alice Mutton,6,Meat/Poultry,01581,1,Eastern,7,"Pavlova, Ltd.",50,48.95,0
+10916,RANCH,1,27-02-1998,Davolio Nancy,686.7,63.77,2,United Package,Rancho grande,16,Pavlova,3,Confections,06897,1,Eastern,7,"Pavlova, Ltd.",32,68.95,0
+10917,ROMEY,4,02-03-1998,Peacock Margaret,365.89,8.29,2,United Package,Romero y tomillo,30,Nord-Ost Matjeshering,8,Seafood,20852,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,11,59.89,0
+10918,BOTTM,3,02-03-1998,Leverling Janet,1929.5,48.83,3,Federal Shipping,Bottom-Dollar Markets,1,Chai,1,Beverages,30346,4,Southern,1,Exotic Liquids,85,52,0.25
+10919,LINOD,2,02-03-1998,Fuller Andrew,1122.8,19.8,2,United Package,LINO-Delicateses,16,Pavlova,3,Confections,01581,1,Eastern,7,"Pavlova, Ltd.",68,49.85,0
+10920,AROUT,4,03-03-1998,Peacock Margaret,390,29.61,2,United Package,Around the Horn,50,Valkoinen suklaa,3,Confections,20852,1,Eastern,23,Karkki Oy,24,16.25,0
+10921,VAFFE,1,03-03-1998,Davolio Nancy,1936,176.48,1,Speedy Express,Vaffeljernet,35,Steeleye Stout,1,Beverages,06897,1,Eastern,16,Bigfoot Breweries,50,61.9,0
+10922,HANAR,5,03-03-1998,Buchanan Steven,742.5,62.74,3,Federal Shipping,Hanari Carnes,17,Alice Mutton,6,Meat/Poultry,02903,1,Eastern,7,"Pavlova, Ltd.",50,43.5,0
+10923,LAMAI,7,03-03-1998,King Robert,935.4,68.26,3,Federal Shipping,La maison d'Asie,42,Singaporean Hokkien Fried Mee,5,Grains/Cereals,60179,2,Western,20,Leka Trading,44,74,0.200000003
+10924,BERGS,3,04-03-1998,Leverling Janet,2034.3,151.52,2,United Package,Berglunds snabbköp,10,Ikura,8,Seafood,30346,4,Southern,4,Tokyo Traders,56,84.35,0.100000001
+10925,HANAR,3,04-03-1998,Leverling Janet,558.7,2.27,1,Speedy Express,Hanari Carnes,36,Inlagd Sill,8,Seafood,30346,4,Southern,17,Svensk Sjöföda AB,37,26,0.150000006
+10926,ANATR,4,04-03-1998,Peacock Margaret,514.4,39.92,3,Federal Shipping,Ana Trujillo Emparedados y helados,11,Queso Cabrales,4,Dairy Products,20852,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',29,71,0
+10927,LACOR,4,05-03-1998,Peacock Margaret,800,19.79,1,Speedy Express,La corne d'abondance,20,Sir Rodney's Marmalade,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",30,106,0
+10928,GALED,1,05-03-1998,Davolio Nancy,137.5,1.36,1,Speedy Express,Galería del gastrónomo,47,Zaanse koeken,3,Confections,06897,1,Eastern,22,Zaanse Snoepfabriek,10,27.5,0
+10929,FRANK,6,05-03-1998,Suyama Michael,1174.75,33.93,1,Speedy Express,Frankenversand,21,Sir Rodney's Scones,3,Confections,85014,2,Western,8,"Specialty Biscuits, Ltd.",124,30.75,0
+10930,SUPRD,4,06-03-1998,Peacock Margaret,2454.6,15.55,3,Federal Shipping,Suprêmes délices,21,Sir Rodney's Scones,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",116,91.15,0
+10931,RICSU,4,06-03-1998,Peacock Margaret,836.85,13.6,2,United Package,Richter Supermarkt,13,Konbu,8,Seafood,20852,1,Eastern,6,Mayumi's,72,25.5,0.150000006
+10932,BONAP,8,06-03-1998,Callahan Laura,1925.2,134.64,1,Speedy Express,Bon app',16,Pavlova,3,Confections,19428,3,Northern,7,"Pavlova, Ltd.",80,109.3,0.100000001
+10933,ISLAT,6,06-03-1998,Suyama Michael,920.6,54.15,3,Federal Shipping,Island Trading,53,Perth Pasties,6,Meat/Poultry,85014,2,Western,24,"G'day, Mate",32,61.3,0
+10934,LEHMS,3,09-03-1998,Leverling Janet,500,32.01,3,Federal Shipping,Lehmanns Marktstand,6,Grandma's Boysenberry Spread,2,Condiments,30346,4,Southern,3,Grandma Kelly's Homestead,20,25,0
+10935,WELLI,4,09-03-1998,Peacock Margaret,699.5,47.59,3,Federal Shipping,Wellington Importadora,1,Chai,1,Beverages,20852,1,Eastern,1,Exotic Liquids,33,89.5,0
+10936,GREAL,3,09-03-1998,Leverling Janet,569.8,33.68,2,United Package,Great Lakes Food Market,36,Inlagd Sill,8,Seafood,30346,4,Southern,17,Svensk Sjöföda AB,30,19,0.200000003
+10937,CACTU,7,10-03-1998,King Robert,644.8,31.51,3,Federal Shipping,Cactus Comidas para llevar,28,Rössle Sauerkraut,7,Produce,60179,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,28,59.6,0
+10938,QUICK,3,10-03-1998,Leverling Janet,3641.5,31.89,2,United Package,QUICK-Stop,13,Konbu,8,Seafood,30346,4,Southern,6,Mayumi's,128,107.5,0.25
+10939,MAGAA,2,10-03-1998,Fuller Andrew,749.7,76.33,2,United Package,Magazzini Alimentari Riuniti,2,Chang,1,Beverages,01581,1,Eastern,1,Exotic Liquids,50,33,0.150000006
+10940,BONAP,8,11-03-1998,Callahan Laura,360,19.77,3,Federal Shipping,Bon app',7,Uncle Bob's Organic Dried Pears,7,Produce,19428,3,Northern,3,Grandma Kelly's Homestead,28,36,0
+10941,SAVEA,7,11-03-1998,King Robert,4768.25,400.81,2,United Package,Save-a-lot Markets,31,Gorgonzola Telino,4,Dairy Products,60179,2,Western,14,Formaggi Fortini s.r.l.,204,109.1,0.25
+10942,REGGC,9,11-03-1998,Dodsworth Anne,560,17.95,3,Federal Shipping,Reggiani Caseifici,49,Maxilaku,3,Confections,03049,3,Northern,23,Karkki Oy,28,20,0
+10943,BSBEV,4,11-03-1998,Peacock Margaret,711,2.17,2,United Package,B's Beverages,13,Konbu,8,Seafood,20852,1,Eastern,6,Mayumi's,51,39,0
+10944,BOTTM,6,12-03-1998,Suyama Michael,1138.6,52.92,3,Federal Shipping,Bottom-Dollar Markets,11,Queso Cabrales,4,Dairy Products,85014,2,Western,5,Cooperativa de Quesos 'Las Cabras',41,78.45,0.25
+10945,MORGK,4,12-03-1998,Peacock Margaret,245,10.22,1,Speedy Express,Morgenstern Gesundkost,13,Konbu,8,Seafood,20852,1,Eastern,6,Mayumi's,30,18.5,0
+10946,VAFFE,1,12-03-1998,Davolio Nancy,1407.5,27.2,2,United Package,Vaffeljernet,10,Ikura,8,Seafood,06897,1,Eastern,4,Tokyo Traders,90,48.5,0
+10947,BSBEV,3,13-03-1998,Leverling Janet,220,3.26,2,United Package,B's Beverages,59,Raclette Courdavault,4,Dairy Products,30346,4,Southern,28,Gai pâturage,4,55,0
+10948,GODOS,3,13-03-1998,Leverling Janet,2362.25,23.39,3,Federal Shipping,Godos Cocina Típica,50,Valkoinen suklaa,3,Confections,30346,4,Southern,23,Karkki Oy,53,93.25,0
+10949,BOTTM,2,13-03-1998,Fuller Andrew,4422,74.44,3,Federal Shipping,Bottom-Dollar Markets,6,Grandma's Boysenberry Spread,2,Condiments,01581,1,Eastern,3,Grandma Kelly's Homestead,108,144.3,0
+10950,MAGAA,1,16-03-1998,Davolio Nancy,110,2.5,2,United Package,Magazzini Alimentari Riuniti,4,Chef Anton's Cajun Seasoning,2,Condiments,06897,1,Eastern,2,New Orleans Cajun Delights,5,22,0
+10951,RICSU,9,16-03-1998,Dodsworth Anne,482.75,30.85,2,United Package,Richter Supermarkt,33,Geitost,4,Dairy Products,03049,3,Northern,15,Norske Meierier,71,19.9,0.050000001
+10952,ALFKI,1,16-03-1998,Davolio Nancy,491.15,40.42,1,Speedy Express,Alfreds Futterkiste,6,Grandma's Boysenberry Spread,2,Condiments,06897,1,Eastern,3,Grandma Kelly's Homestead,18,70.6,0.050000001
+10953,AROUT,9,16-03-1998,Dodsworth Anne,4674.9,23.72,2,United Package,Around the Horn,20,Sir Rodney's Marmalade,3,Confections,03049,3,Northern,8,"Specialty Biscuits, Ltd.",100,93.5,0.050000001
+10954,LINOD,5,17-03-1998,Buchanan Steven,1901.65,27.91,1,Speedy Express,LINO-Delicateses,16,Pavlova,3,Confections,02903,1,Eastern,7,"Pavlova, Ltd.",107,73.45,0.150000006
+10955,FOLKO,8,17-03-1998,Callahan Laura,92.8,3.26,2,United Package,Folk och fä HB,75,Rhönbräu Klosterbier,1,Beverages,19428,3,Northern,12,Plutzer Lebensmittelgroßmärkte AG,12,7.75,0.200000003
+10956,BLAUS,6,17-03-1998,Suyama Michael,677,44.65,2,United Package,Blauer See Delikatessen,21,Sir Rodney's Scones,3,Confections,85014,2,Western,8,"Specialty Biscuits, Ltd.",34,72.5,0
+10957,HILAA,8,18-03-1998,Callahan Laura,1762.7,105.36,3,Federal Shipping,HILARION-Abastos,30,Nord-Ost Matjeshering,8,Seafood,19428,3,Northern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,78,77.14,0
+10958,OCEAN,7,18-03-1998,King Robert,781,49.56,2,United Package,Océano Atlántico Ltda.,5,Chef Anton's Gumbo Mix,2,Condiments,60179,2,Western,2,New Orleans Cajun Delights,31,86.15,0
+10959,GOURL,6,18-03-1998,Suyama Michael,154.85,4.98,2,United Package,Gourmet Lanchonetes,75,Rhönbräu Klosterbier,1,Beverages,85014,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,20,7.75,0.150000006
+10960,HILAA,3,19-03-1998,Leverling Janet,276.35,2.08,1,Speedy Express,HILARION-Abastos,24,Guaraná Fantástica,1,Beverages,30346,4,Southern,10,Refrescos Americanas LTDA,34,14.15,0.25
+10961,QUEEN,8,19-03-1998,Callahan Laura,1121.95,104.47,1,Speedy Express,Queen Cozinha,52,Filo Mix,5,Grains/Cereals,19428,3,Northern,24,"G'day, Mate",66,25,0.050000001
+10962,QUICK,8,19-03-1998,Callahan Laura,3584,275.79,2,United Package,QUICK-Stop,7,Uncle Bob's Organic Dried Pears,7,Produce,19428,3,Northern,3,Grandma Kelly's Homestead,195,122.8,0
+10963,FURIB,9,19-03-1998,Dodsworth Anne,67.84999999,2.7,3,Federal Shipping,Furia Bacalhau e Frutos do Mar,60,Camembert Pierrot,4,Dairy Products,03049,3,Northern,28,Gai pâturage,2,34,0.150000006
+10964,SPECD,3,20-03-1998,Leverling Janet,2052.5,87.38,2,United Package,Spécialités du monde,18,Carnarvon Tigers,8,Seafood,30346,4,Southern,7,"Pavlova, Ltd.",21,362,0
+10965,OLDWO,6,20-03-1998,Suyama Michael,848,144.38,3,Federal Shipping,Old World Delicatessen,51,Manjimup Dried Apples,7,Produce,85014,2,Western,24,"G'day, Mate",16,53,0
+10966,CHOPS,4,20-03-1998,Peacock Margaret,1255.3,27.19,1,Speedy Express,Chop-suey Chinese,37,Gravad lax,8,Seafood,20852,1,Eastern,17,Svensk Sjöföda AB,32,113.3,0
+10967,TOMSP,2,23-03-1998,Fuller Andrew,910.4,62.22,2,United Package,Toms Spezialitäten,19,Teatime Chocolate Biscuits,3,Confections,01581,1,Eastern,8,"Specialty Biscuits, Ltd.",52,29.2,0
+10968,ERNSH,1,23-03-1998,Davolio Nancy,1408,74.6,3,Federal Shipping,Ernst Handel,12,Queso Manchego La Pastora,4,Dairy Products,06897,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',64,75.75,0
+10969,COMMI,1,23-03-1998,Davolio Nancy,108,0.21,2,United Package,Comércio Mineiro,46,Spegesild,8,Seafood,06897,1,Eastern,21,Lyngbysild,9,12,0
+10970,BOLID,9,24-03-1998,Dodsworth Anne,279.8,16.16,1,Speedy Express,Bólido Comidas preparadas,52,Filo Mix,5,Grains/Cereals,03049,3,Northern,24,"G'day, Mate",40,7,0.200000003
+10971,FRANR,2,24-03-1998,Fuller Andrew,1733.06,121.82,2,United Package,France restauration,29,Thüringer Rostbratwurst,6,Meat/Poultry,01581,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,14,123.79,0
+10972,LACOR,4,24-03-1998,Peacock Margaret,251.5,0.02,2,United Package,La corne d'abondance,17,Alice Mutton,6,Meat/Poultry,20852,1,Eastern,7,"Pavlova, Ltd.",13,41.5,0
+10973,LACOR,6,24-03-1998,Suyama Michael,291.55,15.17,2,United Package,La corne d'abondance,26,Gumbär Gummibärchen,3,Confections,85014,2,Western,11,Heli Süßwaren GmbH & Co. KG,21,48.63,0
+10974,SPLIR,3,25-03-1998,Leverling Janet,439,12.96,3,Federal Shipping,Split Rail Beer & Ale,63,Vegie-spread,2,Condiments,30346,4,Southern,7,"Pavlova, Ltd.",10,43.9,0
+10975,BOTTM,1,25-03-1998,Davolio Nancy,717.5,32.27,3,Federal Shipping,Bottom-Dollar Markets,8,Northwoods Cranberry Sauce,2,Condiments,06897,1,Eastern,3,Grandma Kelly's Homestead,26,47.75,0
+10976,HILAA,1,25-03-1998,Davolio Nancy,912,37.97,1,Speedy Express,HILARION-Abastos,28,Rössle Sauerkraut,7,Produce,06897,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,20,45.6,0
+10977,FOLKO,8,26-03-1998,Callahan Laura,2233,208.5,3,Federal Shipping,Folk och fä HB,39,Chartreuse verte,1,Beverages,19428,3,Northern,18,Aux joyeux ecclésiastiques,90,124.4,0
+10978,MAISD,9,26-03-1998,Dodsworth Anne,1500.25,32.82,2,United Package,Maison Dewey,8,Northwoods Cranberry Sauce,2,Condiments,03049,3,Northern,3,Grandma Kelly's Homestead,76,87.85,0.150000006
+10979,ERNSH,8,26-03-1998,Callahan Laura,4813.5,353.07,2,United Package,Ernst Handel,7,Uncle Bob's Organic Dried Pears,7,Produce,19428,3,Northern,3,Grandma Kelly's Homestead,207,172.8,0
+10980,FOLKO,4,27-03-1998,Peacock Margaret,309.8,1.26,1,Speedy Express,Folk och fä HB,75,Rhönbräu Klosterbier,1,Beverages,20852,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,40,7.75,0.200000003
+10981,HANAR,1,27-03-1998,Davolio Nancy,15810,193.37,2,United Package,Hanari Carnes,38,Côte de Blaye,1,Beverages,06897,1,Eastern,18,Aux joyeux ecclésiastiques,60,263.5,0
+10982,BOTTM,2,27-03-1998,Fuller Andrew,1014,14.01,1,Speedy Express,Bottom-Dollar Markets,7,Uncle Bob's Organic Dried Pears,7,Produce,01581,1,Eastern,3,Grandma Kelly's Homestead,29,76,0
+10983,SAVEA,2,27-03-1998,Fuller Andrew,796.35,657.54,2,United Package,Save-a-lot Markets,13,Konbu,8,Seafood,01581,1,Eastern,6,Mayumi's,99,25.5,0.150000006
+10984,SAVEA,1,30-03-1998,Davolio Nancy,1809.75,211.22,3,Federal Shipping,Save-a-lot Markets,16,Pavlova,3,Confections,06897,1,Eastern,7,"Pavlova, Ltd.",115,40.95,0
+10985,HUNGO,2,30-03-1998,Fuller Andrew,2247.9,91.51,1,Speedy Express,Hungry Owl All-Night Grocers,16,Pavlova,3,Confections,01581,1,Eastern,7,"Pavlova, Ltd.",79,111.95,0.100000001
+10986,OCEAN,8,30-03-1998,Callahan Laura,2220,217.86,2,United Package,Océano Atlántico Ltda.,11,Queso Cabrales,4,Dairy Products,19428,3,Northern,5,Cooperativa de Quesos 'Las Cabras',70,133,0
+10987,EASTC,8,31-03-1998,Callahan Laura,2772,185.48,1,Speedy Express,Eastern Connection,7,Uncle Bob's Organic Dried Pears,7,Produce,19428,3,Northern,3,Grandma Kelly's Homestead,86,110.8,0
+10988,RATTC,3,31-03-1998,Leverling Janet,3771.9,61.14,2,United Package,Rattlesnake Canyon Grocery,7,Uncle Bob's Organic Dried Pears,7,Produce,30346,4,Southern,3,Grandma Kelly's Homestead,100,79.3,0
+10989,QUEDE,2,31-03-1998,Fuller Andrew,1353.6,34.76,1,Speedy Express,Que Delícia,6,Grandma's Boysenberry Spread,2,Condiments,01581,1,Eastern,3,Grandma Kelly's Homestead,59,55.65,0
+10990,ERNSH,2,01-04-1998,Fuller Andrew,4930.55,117.61,3,Federal Shipping,Ernst Handel,21,Sir Rodney's Scones,3,Confections,01581,1,Eastern,8,"Specialty Biscuits, Ltd.",256,76.5,0
+10991,QUICK,1,01-04-1998,Davolio Nancy,2869.4,38.51,1,Speedy Express,QUICK-Stop,2,Chang,1,Beverages,06897,1,Eastern,1,Exotic Liquids,160,52,0.200000003
+10992,THEBI,1,01-04-1998,Davolio Nancy,69.6,4.27,3,Federal Shipping,The Big Cheese,72,Mozzarella di Giovanni,4,Dairy Products,06897,1,Eastern,14,Formaggi Fortini s.r.l.,2,34.8,0
+10993,FOLKO,7,01-04-1998,King Robert,6526.75,8.81,3,Federal Shipping,Folk och fä HB,29,Thüringer Rostbratwurst,6,Meat/Poultry,60179,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,85,133.44,0.25
+10994,VAFFE,2,02-04-1998,Fuller Andrew,989.95,65.53,3,Federal Shipping,Vaffeljernet,59,Raclette Courdavault,4,Dairy Products,01581,1,Eastern,28,Gai pâturage,18,55,0.050000001
+10995,PERIC,1,02-04-1998,Davolio Nancy,1196,46,3,Federal Shipping,Pericles Comidas clásicas,51,Manjimup Dried Apples,7,Produce,06897,1,Eastern,24,"G'day, Mate",24,87,0
+10996,QUICK,4,02-04-1998,Peacock Margaret,560,1.12,2,United Package,QUICK-Stop,42,Singaporean Hokkien Fried Mee,5,Grains/Cereals,20852,1,Eastern,20,Leka Trading,40,14,0
+10997,LILAS,8,03-04-1998,Callahan Laura,1979.5,73.91,2,United Package,LILA-Supermercado,32,Mascarpone Fabioli,4,Dairy Products,19428,3,Northern,14,Formaggi Fortini s.r.l.,90,51,0
+10998,WOLZA,8,03-04-1998,Callahan Laura,686,20.31,2,United Package,Wolski  Zajazd,24,Guaraná Fantástica,1,Beverages,19428,3,Northern,10,Refrescos Americanas LTDA,69,50.75,0
+10999,OTTIK,6,03-04-1998,Suyama Michael,1260.85,96.35,2,United Package,Ottilies Käseladen,41,Jack's New England Clam Chowder,8,Seafood,85014,2,Western,19,New England Seafood Cannery,56,75.65,0.050000001
+11000,RATTC,2,06-04-1998,Fuller Andrew,1074.5,55.12,3,Federal Shipping,Rattlesnake Canyon Grocery,4,Chef Anton's Cajun Seasoning,2,Condiments,01581,1,Eastern,2,New Orleans Cajun Delights,85,39.5,0.25
+11001,FOLKO,2,06-04-1998,Fuller Andrew,2769,197.3,2,United Package,Folk och fä HB,7,Uncle Bob's Organic Dried Pears,7,Produce,01581,1,Eastern,3,Grandma Kelly's Homestead,116,87,0
+11002,SAVEA,4,06-04-1998,Peacock Margaret,1901.7,141.16,1,Speedy Express,Save-a-lot Markets,13,Konbu,8,Seafood,20852,1,Eastern,6,Mayumi's,135,62,0
+11003,THECR,3,06-04-1998,Leverling Janet,326,14.91,3,Federal Shipping,The Cracker Box,1,Chai,1,Beverages,30346,4,Southern,1,Exotic Liquids,24,43.4,0
+11004,MAISD,3,07-04-1998,Leverling Janet,295.38,44.84,1,Speedy Express,Maison Dewey,26,Gumbär Gummibärchen,3,Confections,30346,4,Southern,11,Heli Süßwaren GmbH & Co. KG,12,49.23,0
+11005,WILMK,2,07-04-1998,Fuller Andrew,586,0.75,1,Speedy Express,Wilman Kala,1,Chai,1,Beverages,01581,1,Eastern,1,Exotic Liquids,12,73,0
+11006,GREAL,3,07-04-1998,Leverling Janet,391.33,25.19,2,United Package,Great Lakes Food Market,1,Chai,1,Beverages,30346,4,Southern,1,Exotic Liquids,10,141.79,0
+11007,PRINI,8,08-04-1998,Callahan Laura,2633.9,202.24,2,United Package,Princesa Isabel Vinhos,8,Northwoods Cranberry Sauce,2,Condiments,19428,3,Northern,3,Grandma Kelly's Homestead,54,177.79,0
+11008,ERNSH,7,08-04-1998,King Robert,4903.4,79.46,3,Federal Shipping,Ernst Handel,28,Rössle Sauerkraut,7,Produce,60179,2,Western,12,Plutzer Lebensmittelgroßmärkte AG,181,81.1,0.050000001
+11009,GODOS,2,08-04-1998,Fuller Andrew,701.75,59.11,1,Speedy Express,Godos Cocina Típica,24,Guaraná Fantástica,1,Beverages,01581,1,Eastern,10,Refrescos Americanas LTDA,39,57.5,0
+11010,REGGC,2,09-04-1998,Fuller Andrew,645,28.71,2,United Package,Reggiani Caseifici,7,Uncle Bob's Organic Dried Pears,7,Produce,01581,1,Eastern,3,Grandma Kelly's Homestead,30,34.5,0
+11011,ALFKI,3,09-04-1998,Leverling Janet,959.95,1.21,1,Speedy Express,Alfreds Futterkiste,58,Escargots de Bourgogne,8,Seafood,30346,4,Southern,27,Escargots Nouveaux,60,34.75,0.050000001
+11012,FRANK,1,09-04-1998,Davolio Nancy,2973.85,242.95,3,Federal Shipping,Frankenversand,19,Teatime Chocolate Biscuits,3,Confections,06897,1,Eastern,8,"Specialty Biscuits, Ltd.",146,64.7,0.050000001
+11013,ROMEY,2,09-04-1998,Fuller Andrew,361,32.99,1,Speedy Express,Romero y tomillo,23,Tunnbröd,5,Grains/Cereals,01581,1,Eastern,9,PB Knäckebröd AB,36,45,0
+11014,LINOD,2,10-04-1998,Fuller Andrew,270.1,23.6,3,Federal Shipping,LINO-Delicateses,41,Jack's New England Clam Chowder,8,Seafood,01581,1,Eastern,19,New England Seafood Cannery,28,9.65,0.100000001
+11015,SANTG,2,10-04-1998,Fuller Andrew,622.35,4.62,2,United Package,Santé Gourmet,30,Nord-Ost Matjeshering,8,Seafood,01581,1,Eastern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,33,38.89,0
+11016,AROUT,9,10-04-1998,Dodsworth Anne,491.5,33.8,2,United Package,Around the Horn,31,Gorgonzola Telino,4,Dairy Products,03049,3,Northern,14,Formaggi Fortini s.r.l.,31,31.5,0
+11017,ERNSH,9,13-04-1998,Dodsworth Anne,6750,754.26,2,United Package,Ernst Handel,3,Aniseed Syrup,2,Condiments,03049,3,Northern,1,Exotic Liquids,165,80,0
+11018,LONEP,4,13-04-1998,Peacock Margaret,1575,11.65,2,United Package,Lonesome Pine Restaurant,12,Queso Manchego La Pastora,4,Dairy Products,20852,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',35,138.5,0
+11019,RANCH,6,13-04-1998,Suyama Michael,76,3.17,3,Federal Shipping,Rancho grande,46,Spegesild,8,Seafood,85014,2,Western,21,Lyngbysild,5,32,0
+11020,OTTIK,2,14-04-1998,Fuller Andrew,743.85,43.3,2,United Package,Ottilies Käseladen,10,Ikura,8,Seafood,01581,1,Eastern,4,Tokyo Traders,24,31,0.150000006
+11021,QUICK,3,14-04-1998,Leverling Janet,6940.99,297.18,1,Speedy Express,QUICK-Stop,2,Chang,1,Beverages,30346,4,Southern,1,Exotic Liquids,168,219.03,0.25
+11022,HANAR,9,14-04-1998,Dodsworth Anne,1402,6.27,2,United Package,Hanari Carnes,19,Teatime Chocolate Biscuits,3,Confections,03049,3,Northern,8,"Specialty Biscuits, Ltd.",65,45.2,0
+11023,BSBEV,1,14-04-1998,Davolio Nancy,1500,123.83,2,United Package,B's Beverages,7,Uncle Bob's Organic Dried Pears,7,Produce,06897,1,Eastern,3,Grandma Kelly's Homestead,34,76,0
+11024,EASTC,4,15-04-1998,Peacock Margaret,1966.81,74.36,1,Speedy Express,Eastern Connection,26,Gumbär Gummibärchen,3,Confections,20852,1,Eastern,11,Heli Süßwaren GmbH & Co. KG,113,76.28,0
+11025,WARTH,6,15-04-1998,Suyama Michael,299.8,29.17,3,Federal Shipping,Wartian Herkku,1,Chai,1,Beverages,85014,2,Western,1,Exotic Liquids,30,24,0.100000001
+11026,FRANS,4,15-04-1998,Peacock Margaret,1030,47.09,1,Speedy Express,Franchi S.p.A.,18,Carnarvon Tigers,8,Seafood,20852,1,Eastern,7,"Pavlova, Ltd.",18,115.5,0
+11027,BOTTM,1,16-04-1998,Davolio Nancy,1169.8,52.52,1,Speedy Express,Bottom-Dollar Markets,24,Guaraná Fantástica,1,Beverages,06897,1,Eastern,10,Refrescos Americanas LTDA,51,53.8,0.25
+11028,KOENE,2,16-04-1998,Fuller Andrew,2160,29.59,1,Speedy Express,Königlich Essen,55,Pâté chinois,6,Meat/Poultry,01581,1,Eastern,25,Ma Maison,59,79,0
+11029,CHOPS,4,16-04-1998,Peacock Margaret,1286.8,47.84,1,Speedy Express,Chop-suey Chinese,56,Gnocchi di nonna Alice,5,Grains/Cereals,20852,1,Eastern,26,Pasta Buttini s.r.l.,32,81.9,0
+11030,SAVEA,7,17-04-1998,King Robert,16321.15,830.75,2,United Package,Save-a-lot Markets,2,Chang,1,Beverages,60179,2,Western,1,Exotic Liquids,330,219.14,0.25
+11031,SAVEA,6,17-04-1998,Suyama Michael,2393.5,227.22,2,United Package,Save-a-lot Markets,1,Chai,1,Beverages,85014,2,Western,1,Exotic Liquids,182,83.25,0
+11032,WHITC,2,17-04-1998,Fuller Andrew,8902.5,606.19,3,Federal Shipping,White Clover Markets,36,Inlagd Sill,8,Seafood,01581,1,Eastern,17,Svensk Sjöföda AB,90,337.5,0
+11033,RICSU,7,17-04-1998,King Robert,3591.8,84.74,3,Federal Shipping,Richter Supermarkt,53,Perth Pasties,6,Meat/Poultry,60179,2,Western,24,"G'day, Mate",106,68.8,0.100000001
+11034,OLDWO,8,20-04-1998,Callahan Laura,554.3,40.32,1,Speedy Express,Old World Delicatessen,21,Sir Rodney's Scones,3,Confections,19428,3,Northern,8,"Specialty Biscuits, Ltd.",33,57.95,0.100000001
+11035,SUPRD,2,20-04-1998,Fuller Andrew,1754.5,0.17,2,United Package,Suprêmes délices,1,Chai,1,Beverages,01581,1,Eastern,1,Exotic Liquids,110,57.45,0
+11036,DRACD,8,20-04-1998,Callahan Laura,1692,149.47,3,Federal Shipping,Drachenblut Delikatessen,13,Konbu,8,Seafood,19428,3,Northern,6,Mayumi's,37,61,0
+11037,GODOS,7,21-04-1998,King Robert,60,3.2,1,Speedy Express,Godos Cocina Típica,70,Outback Lager,1,Beverages,60179,2,Western,7,"Pavlova, Ltd.",4,15,0
+11038,SUPRD,1,21-04-1998,Davolio Nancy,750.8,29.59,2,United Package,Suprêmes délices,40,Boston Crab Meat,8,Seafood,06897,1,Eastern,19,New England Seafood Cannery,37,46.9,0.200000003
+11039,LINOD,1,21-04-1998,Davolio Nancy,3090,65,2,United Package,LINO-Delicateses,28,Rössle Sauerkraut,7,Produce,06897,1,Eastern,12,Plutzer Lebensmittelgroßmärkte AG,132,103.1,0
+11040,GREAL,4,22-04-1998,Peacock Margaret,200,18.84,3,Federal Shipping,Great Lakes Food Market,21,Sir Rodney's Scones,3,Confections,20852,1,Eastern,8,"Specialty Biscuits, Ltd.",20,10,0
+11041,CHOPS,3,22-04-1998,Leverling Janet,1886.8,48.22,2,United Package,Chop-suey Chinese,2,Chang,1,Beverages,30346,4,Southern,1,Exotic Liquids,60,62.9,0.200000003
+11042,COMMI,2,22-04-1998,Fuller Andrew,405.75,29.99,1,Speedy Express,Comércio Mineiro,44,Gula Malacca,2,Condiments,01581,1,Eastern,20,Leka Trading,19,47.95,0
+11043,SPECD,5,22-04-1998,Buchanan Steven,210,8.8,2,United Package,Spécialités du monde,11,Queso Cabrales,4,Dairy Products,02903,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',10,21,0
+11044,WOLZA,4,23-04-1998,Peacock Margaret,591.6,8.72,1,Speedy Express,Wolski  Zajazd,62,Tarte au sucre,3,Confections,20852,1,Eastern,29,Forêts d'érables,12,49.3,0
+11045,BOTTM,6,23-04-1998,Suyama Michael,1309.5,70.58,2,United Package,Bottom-Dollar Markets,33,Geitost,4,Dairy Products,85014,2,Western,15,Norske Meierier,39,55.5,0
+11046,WANDK,8,23-04-1998,Callahan Laura,1563.85,71.64,2,United Package,Die Wandernde Kuh,12,Queso Manchego La Pastora,4,Dairy Products,19428,3,Northern,5,Cooperativa de Quesos 'Las Cabras',53,88,0.050000001
+11047,EASTC,7,24-04-1998,King Robert,1090,46.62,3,Federal Shipping,Eastern Connection,1,Chai,1,Beverages,60179,2,Western,1,Exotic Liquids,55,39.35,0.25
+11048,BOTTM,7,24-04-1998,King Robert,525,24.12,3,Federal Shipping,Bottom-Dollar Markets,68,Scottish Longbreads,3,Confections,60179,2,Western,8,"Specialty Biscuits, Ltd.",42,12.5,0
+11049,GOURL,3,24-04-1998,Leverling Janet,341.6,8.34,1,Speedy Express,Gourmet Lanchonetes,2,Chang,1,Beverages,30346,4,Southern,1,Exotic Liquids,14,57,0.200000003
+11050,FOLKO,8,27-04-1998,Callahan Laura,899.9,59.41,2,United Package,Folk och fä HB,76,Lakkalikööri,1,Beverages,19428,3,Northern,23,Karkki Oy,50,18,0.100000001
+11051,LAMAI,7,27-04-1998,King Robert,44.8,2.79,3,Federal Shipping,La maison d'Asie,24,Guaraná Fantástica,1,Beverages,60179,2,Western,10,Refrescos Americanas LTDA,10,4.5,0.200000003
+11052,HANAR,3,27-04-1998,Leverling Janet,1664.6,67.26,1,Speedy Express,Hanari Carnes,43,Ipoh Coffee,1,Beverages,30346,4,Southern,20,Leka Trading,40,74.5,0.200000003
+11053,PICCO,2,27-04-1998,Fuller Andrew,3658.35,53.05,2,United Package,Piccolo und mehr,18,Carnarvon Tigers,8,Seafood,01581,1,Eastern,7,"Pavlova, Ltd.",80,127.75,0.200000003
+11054,CACTU,8,28-04-1998,Callahan Laura,305,0.33,1,Speedy Express,Cactus Comidas para llevar,33,Geitost,4,Dairy Products,19428,3,Northern,15,Norske Meierier,30,16.5,0
+11055,HILAA,7,28-04-1998,King Robert,1727.5,120.92,2,United Package,HILARION-Abastos,24,Guaraná Fantástica,1,Beverages,60179,2,Western,10,Refrescos Americanas LTDA,70,91,0
+11056,EASTC,8,28-04-1998,Callahan Laura,3740,278.96,2,United Package,Eastern Connection,7,Uncle Bob's Organic Dried Pears,7,Produce,19428,3,Northern,3,Grandma Kelly's Homestead,125,88,0
+11057,NORTS,3,29-04-1998,Leverling Janet,45,4.13,3,Federal Shipping,North/South,70,Outback Lager,1,Beverages,30346,4,Southern,7,"Pavlova, Ltd.",3,15,0
+11058,BLAUS,9,29-04-1998,Dodsworth Anne,858,31.14,3,Federal Shipping,Blauer See Delikatessen,21,Sir Rodney's Scones,3,Confections,03049,3,Northern,8,"Specialty Biscuits, Ltd.",28,72.5,0
+11059,RICAR,2,29-04-1998,Fuller Andrew,1838,85.8,2,United Package,Ricardo Adocicados,13,Konbu,8,Seafood,01581,1,Eastern,6,Mayumi's,77,79,0
+11060,FRANS,2,30-04-1998,Fuller Andrew,266,10.98,2,United Package,Franchi S.p.A.,60,Camembert Pierrot,4,Dairy Products,01581,1,Eastern,28,Gai pâturage,14,47,0
+11061,GREAL,4,30-04-1998,Peacock Margaret,510,14.01,3,Federal Shipping,Great Lakes Food Market,60,Camembert Pierrot,4,Dairy Products,20852,1,Eastern,28,Gai pâturage,15,34,0
+11062,REGGC,4,30-04-1998,Peacock Margaret,507.6,29.93,2,United Package,Reggiani Caseifici,53,Perth Pasties,6,Meat/Poultry,20852,1,Eastern,24,"G'day, Mate",22,47.8,0.200000003
+11063,HUNGO,3,30-04-1998,Leverling Janet,1445.3,81.73,2,United Package,Hungry Owl All-Night Grocers,34,Sasquatch Ale,1,Beverages,30346,4,Southern,16,Bigfoot Breweries,100,42.05,0
+11064,SAVEA,1,01-05-1998,Davolio Nancy,4722,30.09,1,Speedy Express,Save-a-lot Markets,17,Alice Mutton,6,Meat/Poultry,06897,1,Eastern,7,"Pavlova, Ltd.",173,117.95,0.100000001
+11065,LILAS,8,01-05-1998,Callahan Laura,252.06,12.91,1,Speedy Express,LILA-Supermercado,30,Nord-Ost Matjeshering,8,Seafood,19428,3,Northern,13,Nord-Ost-Fisch Handelsgesellschaft mbH,24,33.34,0.25
+11066,WHITC,7,01-05-1998,King Robert,928.75,44.72,2,United Package,White Clover Markets,16,Pavlova,3,Confections,60179,2,Western,7,"Pavlova, Ltd.",80,40.65,0
+11067,DRACD,1,04-05-1998,Davolio Nancy,86.85,7.98,2,United Package,Drachenblut Delikatessen,41,Jack's New England Clam Chowder,8,Seafood,06897,1,Eastern,19,New England Seafood Cannery,9,9.65,0
+11068,QUEEN,8,04-05-1998,Callahan Laura,2384.35,81.75,2,United Package,Queen Cozinha,28,Rössle Sauerkraut,7,Produce,19428,3,Northern,12,Plutzer Lebensmittelgroßmärkte AG,72,104.6,0.150000006
+11069,TORTU,1,04-05-1998,Davolio Nancy,360,15.67,2,United Package,Tortuga Restaurante,39,Chartreuse verte,1,Beverages,06897,1,Eastern,18,Aux joyeux ecclésiastiques,20,18,0
+11070,LEHMS,2,05-05-1998,Fuller Andrew,1873.05,136,1,Speedy Express,Lehmanns Marktstand,1,Chai,1,Beverages,01581,1,Eastern,1,Exotic Liquids,110,66.95,0.150000006
+11071,LILAS,1,05-05-1998,Davolio Nancy,509.9,0.93,1,Speedy Express,LILA-Supermercado,7,Uncle Bob's Organic Dried Pears,7,Produce,06897,1,Eastern,3,Grandma Kelly's Homestead,25,36,0.050000001
+11072,ERNSH,4,05-05-1998,Peacock Margaret,5218,258.64,2,United Package,Ernst Handel,2,Chang,1,Beverages,20852,1,Eastern,1,Exotic Liquids,200,78.15,0
+11073,PERIC,2,05-05-1998,Fuller Andrew,300,24.95,2,United Package,Pericles Comidas clásicas,11,Queso Cabrales,4,Dairy Products,01581,1,Eastern,5,Cooperativa de Quesos 'Las Cabras',30,25.5,0
+11074,SIMOB,7,06-05-1998,King Robert,244.25,18.44,2,United Package,Simons bistro,16,Pavlova,3,Confections,60179,2,Western,7,"Pavlova, Ltd.",14,17.45,0.050000001
+11075,RICSU,8,06-05-1998,Callahan Laura,585.55,6.19,2,United Package,Richter Supermarkt,2,Chang,1,Beverages,19428,3,Northern,1,Exotic Liquids,42,49,0.150000006
+11076,BONAP,4,06-05-1998,Peacock Margaret,1056.25,38.28,2,United Package,Bon app',6,Grandma's Boysenberry Spread,2,Condiments,20852,1,Eastern,3,Grandma Kelly's Homestead,50,57.45,0.25
+11077,RATTC,1,06-05-1998,Davolio Nancy,1373.91,8.53,2,United Package,Rattlesnake Canyon Grocery,2,Chang,1,Beverages,06897,1,Eastern,1,Exotic Liquids,72,574.35,0.200000003
